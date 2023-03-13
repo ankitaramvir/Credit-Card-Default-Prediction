@@ -28,24 +28,19 @@ class Model_Selection:
             #replace column names
             data = preprocessor.Replace_columnnames(data,'default_payment_next_month','Defaulter')
             data = preprocessor.Replace_columnnames(data,'PAY_0','PAY_1')
-            print(data.head())
+            
             #seperate label feature
             X,Y = preprocessor.separate_label_feature(data,'Defaulter')
             #balance label column
             X,Y = preprocessor.Balance_label_column()
-            print(X.shape)
-            print(Y.shape)
+        
             #split data in train and test data
             x_train,x_test,y_train,y_test = train_test_split(X,Y,test_size = 0.30,random_state=42)
-            print("Shape of x_train: ",x_train.shape)
-            print("Shape of x_test: ",x_test.shape)
-            print("Shape of y_train: ",y_train.shape)
-            print("Shape of y_test: ",y_test.shape)
+            
             #Model selection
             model_finder = Model_Finder()
             best_model_name,final_model = model_finder.get_best_model(x_train,y_train,x_test,y_test)
-            print(best_model_name)
-            print(final_model)
+           
             #saving the best model to the directory
             file_op = file_method.File_Operation()
             file_op.dump_model(final_model,best_model_name)
