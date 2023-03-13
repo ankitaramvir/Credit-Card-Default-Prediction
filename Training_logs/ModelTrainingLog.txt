@@ -1,0 +1,307 @@
+2023-03-10/17:09:47		Start of Training
+2023-03-10/17:09:47		Unsuccessful End of Training
+2023-03-10/18:24:27		Start of Training
+2023-03-10/18:24:27		Unsuccessful End of Training
+2023-03-10/18:26:33		Start of Training
+2023-03-10/18:26:33		Unsuccessful End of Training
+2023-03-10/18:46:23		Start of Training
+2023-03-10/18:46:23		Unsuccessful End of Training
+2023-03-10/22:46:18		Start of Training
+2023-03-10/22:46:18		Unsuccessful End of Training
+2023-03-10/22:57:52		Start of Training
+2023-03-10/22:57:52		Unsuccessful End of Training
+2023-03-10/22:59:27		Start of Training
+2023-03-10/22:59:27		Unsuccessful End of Training
+2023-03-10/23:02:52		Start of Training
+2023-03-10/23:02:52		Unsuccessful End of TrainingData_Getter.get_data() missing 1 required positional argument: 'self'
+2023-03-10/23:04:18		Start of Training
+2023-03-10/23:04:18		Unsuccessful End of TrainingData_Getter.get_data() missing 1 required positional argument: 'self'
+2023-03-10/23:06:44		Start of Training
+2023-03-10/23:06:44		Unsuccessful End of TrainingData_Getter.get_data() missing 1 required positional argument: 'self'
+2023-03-10/23:09:03		Start of Training
+2023-03-10/23:09:03		Unsuccessful End of TrainingData_Getter.get_data() missing 1 required positional argument: 'self'
+2023-03-10/23:12:48		Start of Training
+2023-03-10/23:12:48		Unsuccessful End of TrainingData_Getter.get_data() missing 1 required positional argument: 'self'
+2023-03-10/23:17:53		Start of Training
+2023-03-10/23:17:53		Unsuccessful End of Trainingnot writable
+2023-03-10/23:26:29		Start of Training
+2023-03-10/23:26:29		Unsuccessful End of Trainingnot writable
+2023-03-10/23:28:02		Start of Training
+2023-03-10/23:28:02		Unsuccessful End of Training'list' object has no attribute 'drop'
+2023-03-10/23:38:14		Start of Training
+2023-03-10/23:38:14		Unsuccessful End of Training'list' object has no attribute 'drop'
+2023-03-10/23:40:43		Start of Training
+2023-03-10/23:40:43		Unsuccessful End of Training'list' object has no attribute 'drop'
+2023-03-10/23:42:46		Start of Training
+2023-03-10/23:42:46		Unsuccessful End of Training'str' object has no attribute 'drop'
+2023-03-10/23:45:04		Start of Training
+2023-03-10/23:45:04		Unsuccessful End of Training'str' object has no attribute 'drop'
+2023-03-11/19:06:02		Start of Training
+2023-03-11/19:06:02		Unsuccessful End of Training'str' object has no attribute 'drop'
+2023-03-11/20:11:33		Start of Training
+2023-03-11/20:11:33		Unsuccessful End of TrainingPreprocessor.Remove_columns() takes 2 positional arguments but 3 were given
+2023-03-11/20:13:45		Start of Training
+2023-03-11/20:13:45		Unsuccessful End of Training"['ID'] not found in axis"
+2023-03-11/20:27:35		Start of Training
+2023-03-11/20:27:35		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/20:41:19		Start of Training
+2023-03-11/20:41:19		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/21:40:59		Start of Training
+2023-03-11/21:40:59		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/21:43:58		Start of Training
+2023-03-11/21:43:58		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/21:49:19		Start of Training
+2023-03-11/21:49:20		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/21:51:21		Start of Training
+2023-03-11/21:51:22		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/21:58:54		Start of Training
+2023-03-11/21:58:54		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/22:00:07		Start of Training
+2023-03-11/22:00:07		Unsuccessful End of TrainingInput contains NaN, infinity or a value too large for dtype('float64').
+2023-03-11/22:39:48		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-11/22:39:48		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:str(e)
+2023-03-11/22:39:48		Entered the get_best_model method of the Model_Finder class
+2023-03-11/22:39:48		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-11/22:39:48		Start of Training
+2023-03-11/22:39:48		Unsuccessful End of TrainingFound input variables with inconsistent numbers of samples: [21000, 9000]
+2023-03-11/22:44:25		Start of Training
+2023-03-11/22:45:42		Start of Training
+2023-03-11/22:47:35		Start of Training
+2023-03-11/22:50:34		Start of Training
+2023-03-11/22:50:34		Unsuccessful End of Training'NoneType' object has no attribute 'drop'
+2023-03-11/22:52:20		Start of Training
+2023-03-11/22:52:20		Unsuccessful End of Training'NoneType' object has no attribute 'drop'
+2023-03-11/22:54:13		Start of Training
+2023-03-11/22:54:13		Unsuccessful End of Training'NoneType' object has no attribute 'drop'
+2023-03-11/22:57:34		Start of Training
+2023-03-11/22:59:31		Start of Training
+2023-03-11/23:10:20		Start of Training
+2023-03-11/23:12:30		Start of Training
+2023-03-11/23:14:03		Start of Training
+2023-03-11/23:15:06		Start of Training
+2023-03-11/23:16:40		Start of Training
+2023-03-11/23:54:25		Start of Training
+2023-03-11/23:59:13		Start of Training
+2023-03-12/00:00:06		Start of Training
+2023-03-12/00:02:28		Start of Training
+2023-03-12/00:03:19		Start of Training
+2023-03-12/00:12:40		Start of Training
+2023-03-12/00:16:44		Start of Training
+2023-03-12/00:16:44		Unsuccessful End of Training'NoneType' object has no attribute 'head'
+2023-03-12/00:21:28		Start of Training
+2023-03-12/00:24:16		Start of Training
+2023-03-12/00:24:52		Start of Training
+2023-03-12/09:43:54		Start of Training
+2023-03-12/09:47:14		Start of Training
+2023-03-12/09:48:40		Start of Training
+2023-03-12/09:58:59		Start of Training
+2023-03-12/09:59:45		Start of Training
+2023-03-12/13:19:54		Start of Training
+2023-03-12/13:43:28		Start of Training
+2023-03-12/13:43:28		Unsuccessful End of Trainingunhashable type: 'list'
+2023-03-12/13:45:36		Start of Training
+2023-03-12/13:45:36		Unsuccessful End of Trainingunhashable type: 'list'
+2023-03-12/13:47:06		Start of Training
+2023-03-12/13:54:15		Start of Training
+2023-03-12/13:55:51		Start of Training
+2023-03-12/13:55:51		Unsuccessful End of Trainingunhashable type: 'list'
+2023-03-12/13:57:40		Start of Training
+2023-03-12/13:58:40		Start of Training
+2023-03-12/14:00:19		Start of Training
+2023-03-12/14:00:19		Unsuccessful End of Training'Preprocessor' object has no attribute 'load_data_preprocessing'
+2023-03-12/14:02:02		Start of Training
+2023-03-12/14:02:02		Unsuccessful End of TrainingPreprocessor.separate_label_feature() missing 1 required positional argument: 'label_column_name'
+2023-03-12/14:02:52		Start of Training
+2023-03-12/14:08:14		Start of Training
+2023-03-12/14:11:53		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:11:53		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:11:53		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:11:53		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:11:23		Start of Training
+2023-03-12/14:11:53		Unsuccessful End of TrainingFound input variables with inconsistent numbers of samples: [31830, 13642]
+2023-03-12/14:14:44		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:14:44		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:14:44		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:14:44		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:14:14		Start of Training
+2023-03-12/14:14:44		Unsuccessful End of TrainingFound input variables with inconsistent numbers of samples: [31830, 13642]
+2023-03-12/14:21:43		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:21:43		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:21:43		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:21:43		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:21:14		Start of Training
+2023-03-12/14:21:43		Unsuccessful End of TrainingFound input variables with inconsistent numbers of samples: [31830, 13642]
+2023-03-12/14:27:02		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:30:51		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:27:02		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:30:51		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:26:32		Start of Training
+2023-03-12/14:30:51		Unsuccessful End of TrainingRandomForestClassifier.__init__() takes from 1 to 2 positional arguments but 6 were given
+2023-03-12/14:38:06		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:42:06		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:38:06		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:42:06		Exception occured in get_best_model method of the Model_Finder class. Exception message:str(e)
+2023-03-12/14:37:37		Start of Training
+2023-03-12/14:42:06		Unsuccessful End of Training'Model_Finder' object has no attribute 'rf_score'
+2023-03-12/14:45:19		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:51:41		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:45:19		Entered the get_best_model method of the Model_Finder class
+2023-03-12/14:51:42		Accuracy for random forest:0.8230464741240288
+2023-03-12/14:44:50		Start of Training
+2023-03-12/14:51:42		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/14:59:40		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/15:07:21		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/14:59:40		Entered the get_best_model method of the Model_Finder class
+2023-03-12/15:07:21		Accuracy for random forest:0.8217270194986073
+2023-03-12/14:59:10		Start of Training
+2023-03-12/15:07:21		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/18:24:18		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/18:32:04		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/18:24:18		Entered the get_best_model method of the Model_Finder class
+2023-03-12/18:32:05		Accuracy for random forest:0.819967746664712
+2023-03-12/18:23:24		Start of Training
+2023-03-12/18:32:05		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/19:44:01		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/19:47:57		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/19:44:01		Entered the get_best_model method of the Model_Finder class
+2023-03-12/19:47:58		Accuracy for random forest:0.8215804134291159
+2023-03-12/19:43:32		Start of Training
+2023-03-12/19:47:58		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/20:19:55		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/20:23:50		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/20:19:55		Entered the get_best_model method of the Model_Finder class
+2023-03-12/20:23:50		Accuracy for random forest:0.8215804134291159
+2023-03-12/20:19:26		Start of Training
+2023-03-12/20:23:50		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/21:59:06		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/22:02:38		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/21:59:06		Entered the get_best_model method of the Model_Finder class
+2023-03-12/22:02:38		Accuracy for random forest:0.8225333528808093
+2023-03-12/21:58:37		Start of Training
+2023-03-12/22:02:38		Unsuccessful End of TrainingFile_Operation.dump_model() missing 1 required positional argument: 'filename'
+2023-03-12/22:37:48		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/22:42:10		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/22:37:48		Entered the get_best_model method of the Model_Finder class
+2023-03-12/22:42:10		Accuracy for random forest:0.820774080046914
+2023-03-12/22:37:19		Start of Training
+2023-03-12/22:42:10		Unsuccessful End of Trainingbad operand type for unary +: 'str'
+2023-03-12/22:43:42		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/22:47:41		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/22:43:42		Entered the get_best_model method of the Model_Finder class
+2023-03-12/22:47:41		Accuracy for random forest:0.8200410496994576
+2023-03-12/22:43:12		Start of Training
+2023-03-12/22:47:41		End of Training
+2023-03-12/23:20:48		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/23:26:12		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/23:20:48		Entered the get_best_model method of the Model_Finder class
+2023-03-12/23:26:13		Accuracy for random forest:0.8226799589503005
+2023-03-12/23:20:16		Start of Training
+2023-03-12/23:26:13		End of Training
+2023-03-12/23:29:29		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/23:35:54		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-12/23:29:29		Entered the get_best_model method of the Model_Finder class
+2023-03-12/23:35:54		Accuracy for random forest:0.8236328984019938
+2023-03-12/23:28:35		Start of Training
+2023-03-12/23:35:55		End of Training
+2023-03-13/12:50:17		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/12:55:20		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/12:50:17		Entered the get_best_model method of the Model_Finder class
+2023-03-13/12:55:20		Accuracy for random forest:0.8222401407418267
+2023-03-13/12:49:17		Start of Training
+2023-03-13/12:55:20		End of Training
+2023-03-13/13:26:33		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:30:56		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:26:33		Entered the get_best_model method of the Model_Finder class
+2023-03-13/13:30:56		Accuracy for random forest:0.8220202316375897
+2023-03-13/13:25:36		Start of Training
+2023-03-13/13:30:56		End of Training
+2023-03-13/13:35:49		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:41:13		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:35:49		Entered the get_best_model method of the Model_Finder class
+2023-03-13/13:41:13		Accuracy for random forest:0.8236328984019938
+2023-03-13/13:34:56		Start of Training
+2023-03-13/13:41:13		End of Training
+2023-03-13/13:47:51		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:51:56		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/13:47:51		Entered the get_best_model method of the Model_Finder class
+2023-03-13/13:51:57		Accuracy for random forest:0.8217270194986073
+2023-03-13/13:47:21		Start of Training
+2023-03-13/13:51:57		End of Training
+2023-03-13/18:32:32		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/18:36:51		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/18:32:32		Entered the get_best_model method of the Model_Finder class
+2023-03-13/18:36:51		Accuracy for random forest:0.82319308019352
+2023-03-13/18:31:55		Start of Training
+2023-03-13/18:36:51		End of Training
+2023-03-13/18:41:21		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/18:45:20		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/18:41:21		Entered the get_best_model method of the Model_Finder class
+2023-03-13/18:45:21		Accuracy for random forest:0.8215804134291159
+2023-03-13/18:40:46		Start of Training
+2023-03-13/18:45:21		End of Training
+2023-03-13/20:35:50		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/20:39:47		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/20:35:50		Entered the get_best_model method of the Model_Finder class
+2023-03-13/20:39:48		Accuracy for random forest:0.8210672921858965
+2023-03-13/20:35:16		Start of Training
+2023-03-13/20:39:48		End of Training
+2023-03-13/21:11:32		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:11:40		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:11:32		Entered the get_best_model method of the Model_Finder class
+2023-03-13/21:11:40		Accuracy for random forest:0.8219469286028441
+2023-03-13/21:11:02		Start of Training
+2023-03-13/21:11:40		End of Training
+2023-03-13/21:33:40		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:33:47		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:33:40		Entered the get_best_model method of the Model_Finder class
+2023-03-13/21:33:47		Accuracy for random forest:0.8206274739774226
+2023-03-13/21:33:10		Start of Training
+2023-03-13/21:33:47		End of Training
+2023-03-13/21:41:52		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:41:59		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:41:52		Entered the get_best_model method of the Model_Finder class
+2023-03-13/21:42:00		Accuracy for random forest:0.8198211405952206
+2023-03-13/21:41:22		Start of Training
+2023-03-13/21:42:00		Unsuccessful End of Training'module' object is not callable
+2023-03-13/21:46:11		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:46:19		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:46:11		Entered the get_best_model method of the Model_Finder class
+2023-03-13/21:46:19		Accuracy for random forest:0.8209206861164052
+2023-03-13/21:45:41		Start of Training
+2023-03-13/21:46:19		Unsuccessful End of Training'str' object is not callable
+2023-03-13/21:57:41		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:57:49		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/21:57:41		Entered the get_best_model method of the Model_Finder class
+2023-03-13/21:57:49		Accuracy for random forest:0.8213605043248791
+2023-03-13/21:57:11		Start of Training
+2023-03-13/21:57:49		End of Training
+2023-03-13/23:17:00		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:17:08		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:17:00		Entered the get_best_model method of the Model_Finder class
+2023-03-13/23:17:08		Accuracy for random forest:0.8204075648731858
+2023-03-13/23:16:28		Start of Training
+2023-03-13/23:17:08		End of Training
+2023-03-13/23:23:26		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:23:35		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:23:26		Entered the get_best_model method of the Model_Finder class
+2023-03-13/23:23:35		Accuracy for random forest:0.8204808679079314
+2023-03-13/23:22:49		Start of Training
+2023-03-13/23:23:35		End of Training
+2023-03-13/23:33:42		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:33:50		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:33:42		Entered the get_best_model method of the Model_Finder class
+2023-03-13/23:33:50		Accuracy for random forest:0.819967746664712
+2023-03-13/23:33:08		Start of Training
+2023-03-13/23:33:50		End of Training
+2023-03-13/23:42:01		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:42:09		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:42:01		Entered the get_best_model method of the Model_Finder class
+2023-03-13/23:42:10		Accuracy for random forest:0.8193080193520011
+2023-03-13/23:41:19		Start of Training
+2023-03-13/23:42:10		End of Training
+2023-03-13/23:45:06		Entered the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:45:13		Exited the get_best_params_for_rf method of the Model_Finder class
+2023-03-13/23:45:06		Entered the get_best_model method of the Model_Finder class
+2023-03-13/23:45:14		Accuracy for random forest:0.8229731710892831
+2023-03-13/23:44:33		Start of Training
+2023-03-13/23:45:14		End of Training

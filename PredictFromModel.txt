@@ -1,0 +1,48 @@
+2023-03-13/18:31:47		Train the model for prediction
+2023-03-13/18:36:51		Training of model for prediction finished
+2023-03-13/18:36:51		Start of Prediction
+2023-03-13/18:36:51		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/18:40:38		Train the model for prediction
+2023-03-13/18:45:21		Training of model for prediction finished
+2023-03-13/18:45:21		Start of Prediction
+2023-03-13/18:45:21		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/20:35:07		Train the model for prediction
+2023-03-13/20:39:48		Training of model for prediction finished
+2023-03-13/20:39:48		Start of Prediction
+2023-03-13/20:39:48		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/21:10:54		Train the model for prediction
+2023-03-13/21:11:40		Training of model for prediction finished
+2023-03-13/21:11:40		Start of Prediction
+2023-03-13/21:11:40		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/21:33:02		Train the model for prediction
+2023-03-13/21:33:47		Training of model for prediction finished
+2023-03-13/21:33:47		Start of Prediction
+2023-03-13/21:33:47		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/21:41:15		Train the model for prediction
+2023-03-13/21:42:00		Error in TrainModelforPrediction method in Prediction class'module' object is not callable
+2023-03-13/21:45:35		Train the model for prediction
+2023-03-13/21:46:19		Error in TrainModelforPrediction method in Prediction class'str' object is not callable
+2023-03-13/21:57:04		Train the model for prediction
+2023-03-13/21:57:49		Training of model for prediction finished
+2023-03-13/21:57:49		Start of Prediction
+2023-03-13/21:57:49		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'filename'
+2023-03-13/23:16:25		Train the model for prediction
+2023-03-13/23:17:08		Training of model for prediction finished
+2023-03-13/23:17:08		Start of Prediction
+2023-03-13/23:17:08		Error occured while running the prediction!! Error:: File_Operation.load_model() missing 1 required positional argument: 'self'
+2023-03-13/23:22:42		Train the model for prediction
+2023-03-13/23:23:35		Training of model for prediction finished
+2023-03-13/23:23:35		Start of Prediction
+2023-03-13/23:23:35		End of Prediction
+2023-03-13/23:33:01		Train the model for prediction
+2023-03-13/23:33:50		Training of model for prediction finished
+2023-03-13/23:33:50		Start of Prediction
+2023-03-13/23:33:50		End of Prediction
+2023-03-13/23:41:16		Train the model for prediction
+2023-03-13/23:42:10		Training of model for prediction finished
+2023-03-13/23:42:10		Start of Prediction
+2023-03-13/23:42:10		End of Prediction
+2023-03-13/23:44:30		Train the model for prediction
+2023-03-13/23:45:14		Training of model for prediction finished
+2023-03-13/23:45:14		Start of Prediction
+2023-03-13/23:45:14		End of Prediction

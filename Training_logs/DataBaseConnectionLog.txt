@@ -1,0 +1,2401 @@
+2023-03-09/23:41:14		Attempting to connect with mysql
+2023-03-09/23:41:14		Connection successful
+2023-03-09/23:41:14		Creating database in mysql
+2023-03-09/23:41:15		Created database in mysql
+2023-03-09/23:41:15		Attempting to connect with mysql
+2023-03-09/23:41:15		Connection successful
+2023-03-09/23:41:15		Create table method initialised
+2023-03-09/23:41:15		Table created
+2023-03-09/23:41:15		Attempting to connect with mysql
+2023-03-09/23:41:15		Connection successful
+2023-03-09/23:41:15		Inserting data into sql table method initialised
+2023-03-09/23:41:15		Error while inserting data in database: <class 'Exception'>
+2023-03-09/23:42:32		Attempting to connect with mysql
+2023-03-09/23:42:32		Connection successful
+2023-03-09/23:42:32		Creating database in mysql
+2023-03-09/23:42:32		Created database in mysql
+2023-03-09/23:42:32		Attempting to connect with mysql
+2023-03-09/23:42:32		Connection successful
+2023-03-09/23:42:32		Create table method initialised
+2023-03-09/23:42:32		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:43:56		Attempting to connect with mysql
+2023-03-09/23:43:56		Connection successful
+2023-03-09/23:43:56		Creating database in mysql
+2023-03-09/23:43:57		Created database in mysql
+2023-03-09/23:43:57		Attempting to connect with mysql
+2023-03-09/23:43:57		Connection successful
+2023-03-09/23:43:57		Create table method initialised
+2023-03-09/23:43:57		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:44:00		Attempting to connect with mysql
+2023-03-09/23:44:00		Connection successful
+2023-03-09/23:44:00		Creating database in mysql
+2023-03-09/23:44:00		Created database in mysql
+2023-03-09/23:44:00		Attempting to connect with mysql
+2023-03-09/23:44:00		Connection successful
+2023-03-09/23:44:00		Create table method initialised
+2023-03-09/23:44:00		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:45:09		Attempting to connect with mysql
+2023-03-09/23:45:09		Connection successful
+2023-03-09/23:45:09		Creating database in mysql
+2023-03-09/23:45:10		Created database in mysql
+2023-03-09/23:45:10		Attempting to connect with mysql
+2023-03-09/23:45:10		Connection successful
+2023-03-09/23:45:10		Create table method initialised
+2023-03-09/23:45:10		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:46:20		Attempting to connect with mysql
+2023-03-09/23:46:20		Connection successful
+2023-03-09/23:46:20		Creating database in mysql
+2023-03-09/23:46:20		Created database in mysql
+2023-03-09/23:46:20		Attempting to connect with mysql
+2023-03-09/23:46:21		Connection successful
+2023-03-09/23:46:20		Create table method initialised
+2023-03-09/23:46:21		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:49:36		Attempting to connect with mysql
+2023-03-09/23:49:36		Connection successful
+2023-03-09/23:49:36		Creating database in mysql
+2023-03-09/23:49:36		Created database in mysql
+2023-03-09/23:49:36		Attempting to connect with mysql
+2023-03-09/23:49:36		Connection successful
+2023-03-09/23:49:36		Create table method initialised
+2023-03-09/23:49:36		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:50:03		Attempting to connect with mysql
+2023-03-09/23:50:03		Connection successful
+2023-03-09/23:50:03		Creating database in mysql
+2023-03-09/23:50:03		Created database in mysql
+2023-03-09/23:50:03		Attempting to connect with mysql
+2023-03-09/23:50:03		Connection successful
+2023-03-09/23:50:03		Create table method initialised
+2023-03-09/23:50:03		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:51:28		Attempting to connect with mysql
+2023-03-09/23:51:28		Connection successful
+2023-03-09/23:51:28		Creating database in mysql
+2023-03-09/23:51:28		Created database in mysql
+2023-03-09/23:51:28		Attempting to connect with mysql
+2023-03-09/23:51:28		Connection successful
+2023-03-09/23:51:28		Create table method initialised
+2023-03-09/23:51:28		Error while creating table in database: <class 'Exception'>
+2023-03-09/23:51:39		Attempting to connect with mysql
+2023-03-09/23:51:39		Connection successful
+2023-03-09/23:51:39		Creating database in mysql
+2023-03-09/23:51:39		Created database in mysql
+2023-03-09/23:51:39		Attempting to connect with mysql
+2023-03-09/23:51:39		Connection successful
+2023-03-09/23:51:39		Create table method initialised
+2023-03-09/23:51:39		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:04:48		Attempting to connect with mysql
+2023-03-10/17:04:48		Connection successful
+2023-03-10/17:04:48		Creating database in mysql
+2023-03-10/17:04:48		Created database in mysql
+2023-03-10/17:04:48		Attempting to connect with mysql
+2023-03-10/17:04:48		Connection successful
+2023-03-10/17:04:48		Create table method initialised
+2023-03-10/17:04:48		Attempting to connect with mysql
+2023-03-10/17:04:48		Connection successful
+2023-03-10/17:04:48		Inserting data into sql table method initialised
+2023-03-10/17:04:51		Error while inserting data in database: unsupported operand type(s) for %: 'int' and 'str'
+2023-03-10/17:07:20		Attempting to connect with mysql
+2023-03-10/17:07:20		Connection successful
+2023-03-10/17:07:20		Creating database in mysql
+2023-03-10/17:07:20		Created database in mysql
+2023-03-10/17:07:20		Attempting to connect with mysql
+2023-03-10/17:07:20		Connection successful
+2023-03-10/17:07:20		Create table method initialised
+2023-03-10/17:07:20		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:09:43		Attempting to connect with mysql
+2023-03-10/17:09:43		Connection successful
+2023-03-10/17:09:43		Creating database in mysql
+2023-03-10/17:09:44		Created database in mysql
+2023-03-10/17:09:44		Attempting to connect with mysql
+2023-03-10/17:09:44		Connection successful
+2023-03-10/17:09:44		Create table method initialised
+2023-03-10/17:09:44		Attempting to connect with mysql
+2023-03-10/17:09:44		Connection successful
+2023-03-10/17:09:44		Inserting data into sql table method initialised
+2023-03-10/17:09:46		Data inserted into table
+2023-03-10/17:09:46		Attempting to connect with mysql
+2023-03-10/17:09:46		Connection successful
+2023-03-10/17:09:46		Exporting data into csv file
+2023-03-10/17:13:03		Attempting to connect with mysql
+2023-03-10/17:13:03		Connection successful
+2023-03-10/17:13:03		Creating database in mysql
+2023-03-10/17:13:03		Created database in mysql
+2023-03-10/17:13:03		Attempting to connect with mysql
+2023-03-10/17:13:03		Connection successful
+2023-03-10/17:13:03		Create table method initialised
+2023-03-10/17:13:03		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:14:08		Attempting to connect with mysql
+2023-03-10/17:14:08		Connection successful
+2023-03-10/17:14:08		Creating database in mysql
+2023-03-10/17:14:08		Created database in mysql
+2023-03-10/17:14:08		Attempting to connect with mysql
+2023-03-10/17:14:08		Connection successful
+2023-03-10/17:14:08		Create table method initialised
+2023-03-10/17:14:08		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:15:59		Attempting to connect with mysql
+2023-03-10/17:16:00		Connection successful
+2023-03-10/17:15:59		Creating database in mysql
+2023-03-10/17:16:00		Created database in mysql
+2023-03-10/17:16:00		Attempting to connect with mysql
+2023-03-10/17:16:00		Connection successful
+2023-03-10/17:16:00		Create table method initialised
+2023-03-10/17:16:00		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:17:53		Attempting to connect with mysql
+2023-03-10/17:17:54		Connection successful
+2023-03-10/17:17:53		Creating database in mysql
+2023-03-10/17:17:54		Created database in mysql
+2023-03-10/17:17:54		Attempting to connect with mysql
+2023-03-10/17:17:54		Connection successful
+2023-03-10/17:17:54		Create table method initialised
+2023-03-10/17:17:54		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:33:32		Attempting to connect with mysql
+2023-03-10/17:33:32		Connection successful
+2023-03-10/17:33:32		Creating database in mysql
+2023-03-10/17:33:32		Created database in mysql
+2023-03-10/17:33:32		Attempting to connect with mysql
+2023-03-10/17:33:32		Connection successful
+2023-03-10/17:33:32		Create table method initialised
+2023-03-10/17:33:32		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:36:07		Attempting to connect with mysql
+2023-03-10/17:36:07		Connection successful
+2023-03-10/17:36:07		Creating database in mysql
+2023-03-10/17:36:07		Created database in mysql
+2023-03-10/17:36:07		Attempting to connect with mysql
+2023-03-10/17:36:07		Connection successful
+2023-03-10/17:36:07		Create table method initialised
+2023-03-10/17:36:07		Error while creating table in database: <class 'Exception'>
+2023-03-10/17:37:20		Attempting to connect with mysql
+2023-03-10/17:37:20		Connection successful
+2023-03-10/17:37:20		Creating database in mysql
+2023-03-10/17:37:20		Created database in mysql
+2023-03-10/17:37:20		Attempting to connect with mysql
+2023-03-10/17:37:20		Connection successful
+2023-03-10/17:37:20		Create table method initialised
+2023-03-10/17:37:20		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s(ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE INTEGE' at line 1
+2023-03-10/17:38:45		Attempting to connect with mysql
+2023-03-10/17:38:45		Connection successful
+2023-03-10/17:38:45		Creating database in mysql
+2023-03-10/17:38:45		Created database in mysql
+2023-03-10/17:38:45		Attempting to connect with mysql
+2023-03-10/17:38:45		Connection successful
+2023-03-10/17:38:45		Create table method initialised
+2023-03-10/17:38:45		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s(ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE INTEGE' at line 1
+2023-03-10/17:43:28		Attempting to connect with mysql
+2023-03-10/17:43:28		Connection successful
+2023-03-10/17:43:28		Creating database in mysql
+2023-03-10/17:43:28		Created database in mysql
+2023-03-10/17:43:28		Attempting to connect with mysql
+2023-03-10/17:43:29		Connection successful
+2023-03-10/17:43:28		Create table method initialised
+2023-03-10/17:43:29		Error while creating table in database: Unread result found
+2023-03-10/17:44:11		Attempting to connect with mysql
+2023-03-10/17:44:11		Connection successful
+2023-03-10/17:44:11		Creating database in mysql
+2023-03-10/17:44:11		Created database in mysql
+2023-03-10/17:44:11		Attempting to connect with mysql
+2023-03-10/17:44:11		Connection successful
+2023-03-10/17:44:11		Create table method initialised
+2023-03-10/17:44:11		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s(ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE INTEGE' at line 1
+2023-03-10/17:49:37		Attempting to connect with mysql
+2023-03-10/17:49:37		Connection successful
+2023-03-10/17:49:37		Creating database in mysql
+2023-03-10/17:49:37		Created database in mysql
+2023-03-10/17:49:37		Attempting to connect with mysql
+2023-03-10/17:49:37		Connection successful
+2023-03-10/17:49:37		Create table method initialised
+2023-03-10/17:49:37		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s(index INTEGER,ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, M' at line 1
+2023-03-10/17:52:18		Attempting to connect with mysql
+2023-03-10/17:52:18		Connection successful
+2023-03-10/17:52:18		Creating database in mysql
+2023-03-10/17:52:18		Created database in mysql
+2023-03-10/17:52:18		Attempting to connect with mysql
+2023-03-10/17:52:18		Connection successful
+2023-03-10/17:52:18		Create table method initialised
+2023-03-10/17:52:18		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s(index INTEGER,ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, M' at line 1
+2023-03-10/17:54:02		Attempting to connect with mysql
+2023-03-10/17:54:02		Connection successful
+2023-03-10/17:54:02		Creating database in mysql
+2023-03-10/17:54:02		Created database in mysql
+2023-03-10/17:54:02		Attempting to connect with mysql
+2023-03-10/17:54:02		Connection successful
+2023-03-10/17:54:02		Create table method initialised
+2023-03-10/17:54:02		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER,ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE I' at line 1
+2023-03-10/18:21:26		Attempting to connect with mysql
+2023-03-10/18:21:26		Connection successful
+2023-03-10/18:21:26		Creating database in mysql
+2023-03-10/18:21:26		Created database in mysql
+2023-03-10/18:21:26		Attempting to connect with mysql
+2023-03-10/18:21:26		Connection successful
+2023-03-10/18:21:26		Create table method initialised
+2023-03-10/18:21:26		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER,ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE I' at line 1
+2023-03-10/18:23:21		Attempting to connect with mysql
+2023-03-10/18:23:21		Connection successful
+2023-03-10/18:23:21		Creating database in mysql
+2023-03-10/18:23:21		Created database in mysql
+2023-03-10/18:23:22		Attempting to connect with mysql
+2023-03-10/18:23:22		Connection successful
+2023-03-10/18:23:22		Create table method initialised
+2023-03-10/18:23:22		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER,ID INTEGER, LIMIT_BAL INTEGER,SEX INTEGER, EDUCATION INTEGER, MARRIAGE I' at line 1
+2023-03-10/18:24:23		Attempting to connect with mysql
+2023-03-10/18:24:23		Connection successful
+2023-03-10/18:24:23		Creating database in mysql
+2023-03-10/18:24:23		Created database in mysql
+2023-03-10/18:24:23		Attempting to connect with mysql
+2023-03-10/18:24:23		Connection successful
+2023-03-10/18:24:23		Create table method initialised
+2023-03-10/18:24:24		Attempting to connect with mysql
+2023-03-10/18:24:24		Connection successful
+2023-03-10/18:24:24		Inserting data into sql table method initialised
+2023-03-10/18:24:26		Data inserted into table
+2023-03-10/18:24:26		Attempting to connect with mysql
+2023-03-10/18:24:26		Connection successful
+2023-03-10/18:24:26		Exporting data into csv file
+2023-03-10/18:26:30		Attempting to connect with mysql
+2023-03-10/18:26:30		Connection successful
+2023-03-10/18:26:30		Creating database in mysql
+2023-03-10/18:26:30		Created database in mysql
+2023-03-10/18:26:30		Attempting to connect with mysql
+2023-03-10/18:26:30		Connection successful
+2023-03-10/18:26:30		Create table method initialised
+2023-03-10/18:26:30		Attempting to connect with mysql
+2023-03-10/18:26:30		Connection successful
+2023-03-10/18:26:30		Inserting data into sql table method initialised
+2023-03-10/18:26:32		Data inserted into table
+2023-03-10/18:26:32		Attempting to connect with mysql
+2023-03-10/18:26:32		Connection successful
+2023-03-10/18:26:32		Exporting data into csv file
+2023-03-10/18:28:53		Attempting to connect with mysql
+2023-03-10/18:28:53		Connection successful
+2023-03-10/18:28:53		Creating database in mysql
+2023-03-10/18:28:53		Created database in mysql
+2023-03-10/18:28:53		Attempting to connect with mysql
+2023-03-10/18:28:53		Connection successful
+2023-03-10/18:28:53		Create table method initialised
+2023-03-10/18:28:54		Attempting to connect with mysql
+2023-03-10/18:28:54		Connection successful
+2023-03-10/18:28:54		Inserting data into sql table method initialised
+2023-03-10/18:28:54		Error while inserting data in database: (MySQLdb.OperationalError) (1054, "Unknown column 'index' in 'field list'")
+[SQL: INSERT INTO `Good_Raw_Data1` (`index`, `ID`, `LIMIT_BAL`, `SEX`, `EDUCATION`, `MARRIAGE`, `AGE`, `PAY_0`, `PAY_2`, `PAY_3`, `PAY_4`, `PAY_5`, `PAY_6`, `BILL_AMT1`, `BILL_AMT2`, `BILL_AMT3`, `BILL_AMT4`, `BILL_AMT5`, `BILL_AMT6`, `PAY_AMT1`, `PAY_AMT2`, `PAY_AMT3`, `PAY_AMT4`, `PAY_AMT5`, `PAY_AMT6`, `default.payment.next.month`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)]
+[parameters: ((0, 1, 20000.0, 2, 2, 1, 24, 2, 2, -1, -1, -2, -2, 3913.0, 3102.0, 689.0, 0.0, 0.0, 0.0, 0.0, 689.0, 0.0, 0.0, 0.0, 0.0, 1), (1, 2, 120000.0, 2, 2, 2, 26, -1, 2, 0, 0, 0, 2, 2682.0, 1725.0, 2682.0, 3272.0, 3455.0, 3261.0, 0.0, 1000.0, 1000.0, 1000.0, 0.0, 2000.0, 1), (2, 3, 90000.0, 2, 2, 2, 34, 0, 0, 0, 0, 0, 0, 29239.0, 14027.0, 13559.0, 14331.0, 14948.0, 15549.0, 1518.0, 1500.0, 1000.0, 1000.0, 1000.0, 5000.0, 0), (3, 4, 50000.0, 2, 2, 1, 37, 0, 0, 0, 0, 0, 0, 46990.0, 48233.0, 49291.0, 28314.0, 28959.0, 29547.0, 2000.0, 2019.0, 1200.0, 1100.0, 1069.0, 1000.0, 0), (4, 5, 50000.0, 1, 2, 1, 57, -1, 0, -1, 0, 0, 0, 8617.0, 5670.0, 35835.0, 20940.0, 19146.0, 19131.0, 2000.0, 36681.0, 10000.0, 9000.0, 689.0, 679.0, 0), (5, 6, 50000.0, 1, 1, 2, 37, 0, 0, 0, 0, 0, 0, 64400.0, 57069.0, 57608.0, 19394.0, 19619.0, 20024.0, 2500.0, 1815.0, 657.0, 1000.0, 1000.0, 800.0, 0), (6, 7, 500000.0, 1, 1, 2, 29, 0, 0, 0, 0, 0, 0, 367965.0, 412023.0, 445007.0, 542653.0, 483003.0, 473944.0, 55000.0, 40000.0, 38000.0, 20239.0, 13750.0, 13770.0, 0), (7, 8, 100000.0, 2, 2, 2, 23, 0, -1, -1, 0, 0, -1, 11876.0, 380.0, 601.0, 221.0, -159.0, 567.0, 380.0, 601.0, 0.0, 581.0, 1687.0, 1542.0, 0)  ... displaying 10 of 30000 total bound parameter sets ...  (29998, 29999, 80000.0, 1, 3, 1, 41, 1, -1, 0, 0, 0, -1, -1645.0, 78379.0, 76304.0, 52774.0, 11855.0, 48944.0, 85900.0, 3409.0, 1178.0, 1926.0, 52964.0, 1804.0, 1), (29999, 30000, 50000.0, 1, 2, 1, 46, 0, 0, 0, 0, 0, 0, 47929.0, 48905.0, 49764.0, 36535.0, 32428.0, 15313.0, 2078.0, 1800.0, 1430.0, 1000.0, 1000.0, 1000.0, 1))]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-03-10/18:33:27		Attempting to connect with mysql
+2023-03-10/18:33:27		Connection successful
+2023-03-10/18:33:27		Creating database in mysql
+2023-03-10/18:33:27		Created database in mysql
+2023-03-10/18:33:27		Attempting to connect with mysql
+2023-03-10/18:33:27		Connection successful
+2023-03-10/18:33:27		Create table method initialised
+2023-03-10/18:33:27		Attempting to connect with mysql
+2023-03-10/18:33:27		Connection successful
+2023-03-10/18:33:27		Inserting data into sql table method initialised
+2023-03-10/18:33:28		Error while inserting data in database: (MySQLdb.OperationalError) (1054, "Unknown column 'default.payment.next.month' in 'field list'")
+[SQL: INSERT INTO `Good_Raw_Data1` (`ID`, `LIMIT_BAL`, `SEX`, `EDUCATION`, `MARRIAGE`, `AGE`, `PAY_0`, `PAY_2`, `PAY_3`, `PAY_4`, `PAY_5`, `PAY_6`, `BILL_AMT1`, `BILL_AMT2`, `BILL_AMT3`, `BILL_AMT4`, `BILL_AMT5`, `BILL_AMT6`, `PAY_AMT1`, `PAY_AMT2`, `PAY_AMT3`, `PAY_AMT4`, `PAY_AMT5`, `PAY_AMT6`, `default.payment.next.month`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)]
+[parameters: ((1, 20000.0, 2, 2, 1, 24, 2, 2, -1, -1, -2, -2, 3913.0, 3102.0, 689.0, 0.0, 0.0, 0.0, 0.0, 689.0, 0.0, 0.0, 0.0, 0.0, 1), (2, 120000.0, 2, 2, 2, 26, -1, 2, 0, 0, 0, 2, 2682.0, 1725.0, 2682.0, 3272.0, 3455.0, 3261.0, 0.0, 1000.0, 1000.0, 1000.0, 0.0, 2000.0, 1), (3, 90000.0, 2, 2, 2, 34, 0, 0, 0, 0, 0, 0, 29239.0, 14027.0, 13559.0, 14331.0, 14948.0, 15549.0, 1518.0, 1500.0, 1000.0, 1000.0, 1000.0, 5000.0, 0), (4, 50000.0, 2, 2, 1, 37, 0, 0, 0, 0, 0, 0, 46990.0, 48233.0, 49291.0, 28314.0, 28959.0, 29547.0, 2000.0, 2019.0, 1200.0, 1100.0, 1069.0, 1000.0, 0), (5, 50000.0, 1, 2, 1, 57, -1, 0, -1, 0, 0, 0, 8617.0, 5670.0, 35835.0, 20940.0, 19146.0, 19131.0, 2000.0, 36681.0, 10000.0, 9000.0, 689.0, 679.0, 0), (6, 50000.0, 1, 1, 2, 37, 0, 0, 0, 0, 0, 0, 64400.0, 57069.0, 57608.0, 19394.0, 19619.0, 20024.0, 2500.0, 1815.0, 657.0, 1000.0, 1000.0, 800.0, 0), (7, 500000.0, 1, 1, 2, 29, 0, 0, 0, 0, 0, 0, 367965.0, 412023.0, 445007.0, 542653.0, 483003.0, 473944.0, 55000.0, 40000.0, 38000.0, 20239.0, 13750.0, 13770.0, 0), (8, 100000.0, 2, 2, 2, 23, 0, -1, -1, 0, 0, -1, 11876.0, 380.0, 601.0, 221.0, -159.0, 567.0, 380.0, 601.0, 0.0, 581.0, 1687.0, 1542.0, 0)  ... displaying 10 of 30000 total bound parameter sets ...  (29999, 80000.0, 1, 3, 1, 41, 1, -1, 0, 0, 0, -1, -1645.0, 78379.0, 76304.0, 52774.0, 11855.0, 48944.0, 85900.0, 3409.0, 1178.0, 1926.0, 52964.0, 1804.0, 1), (30000, 50000.0, 1, 2, 1, 46, 0, 0, 0, 0, 0, 0, 47929.0, 48905.0, 49764.0, 36535.0, 32428.0, 15313.0, 2078.0, 1800.0, 1430.0, 1000.0, 1000.0, 1000.0, 1))]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-03-10/18:34:57		Attempting to connect with mysql
+2023-03-10/18:34:58		Connection successful
+2023-03-10/18:34:57		Creating database in mysql
+2023-03-10/18:34:58		Created database in mysql
+2023-03-10/18:34:58		Attempting to connect with mysql
+2023-03-10/18:34:58		Connection successful
+2023-03-10/18:34:58		Create table method initialised
+2023-03-10/18:34:58		Error while creating table in database: 1050 (42S01): Table 'good_raw_data1' already exists
+2023-03-10/18:35:25		Attempting to connect with mysql
+2023-03-10/18:35:25		Connection successful
+2023-03-10/18:35:25		Creating database in mysql
+2023-03-10/18:35:25		Created database in mysql
+2023-03-10/18:35:25		Attempting to connect with mysql
+2023-03-10/18:35:25		Connection successful
+2023-03-10/18:35:25		Create table method initialised
+2023-03-10/18:35:25		Attempting to connect with mysql
+2023-03-10/18:35:25		Connection successful
+2023-03-10/18:35:25		Inserting data into sql table method initialised
+2023-03-10/18:35:26		Error while inserting data in database: (MySQLdb.OperationalError) (1054, "Unknown column 'default.payment.next.month' in 'field list'")
+[SQL: INSERT INTO `Good_Raw_Data1` (`ID`, `LIMIT_BAL`, `SEX`, `EDUCATION`, `MARRIAGE`, `AGE`, `PAY_0`, `PAY_2`, `PAY_3`, `PAY_4`, `PAY_5`, `PAY_6`, `BILL_AMT1`, `BILL_AMT2`, `BILL_AMT3`, `BILL_AMT4`, `BILL_AMT5`, `BILL_AMT6`, `PAY_AMT1`, `PAY_AMT2`, `PAY_AMT3`, `PAY_AMT4`, `PAY_AMT5`, `PAY_AMT6`, `default.payment.next.month`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)]
+[parameters: ((1, 20000.0, 2, 2, 1, 24, 2, 2, -1, -1, -2, -2, 3913.0, 3102.0, 689.0, 0.0, 0.0, 0.0, 0.0, 689.0, 0.0, 0.0, 0.0, 0.0, 1), (2, 120000.0, 2, 2, 2, 26, -1, 2, 0, 0, 0, 2, 2682.0, 1725.0, 2682.0, 3272.0, 3455.0, 3261.0, 0.0, 1000.0, 1000.0, 1000.0, 0.0, 2000.0, 1), (3, 90000.0, 2, 2, 2, 34, 0, 0, 0, 0, 0, 0, 29239.0, 14027.0, 13559.0, 14331.0, 14948.0, 15549.0, 1518.0, 1500.0, 1000.0, 1000.0, 1000.0, 5000.0, 0), (4, 50000.0, 2, 2, 1, 37, 0, 0, 0, 0, 0, 0, 46990.0, 48233.0, 49291.0, 28314.0, 28959.0, 29547.0, 2000.0, 2019.0, 1200.0, 1100.0, 1069.0, 1000.0, 0), (5, 50000.0, 1, 2, 1, 57, -1, 0, -1, 0, 0, 0, 8617.0, 5670.0, 35835.0, 20940.0, 19146.0, 19131.0, 2000.0, 36681.0, 10000.0, 9000.0, 689.0, 679.0, 0), (6, 50000.0, 1, 1, 2, 37, 0, 0, 0, 0, 0, 0, 64400.0, 57069.0, 57608.0, 19394.0, 19619.0, 20024.0, 2500.0, 1815.0, 657.0, 1000.0, 1000.0, 800.0, 0), (7, 500000.0, 1, 1, 2, 29, 0, 0, 0, 0, 0, 0, 367965.0, 412023.0, 445007.0, 542653.0, 483003.0, 473944.0, 55000.0, 40000.0, 38000.0, 20239.0, 13750.0, 13770.0, 0), (8, 100000.0, 2, 2, 2, 23, 0, -1, -1, 0, 0, -1, 11876.0, 380.0, 601.0, 221.0, -159.0, 567.0, 380.0, 601.0, 0.0, 581.0, 1687.0, 1542.0, 0)  ... displaying 10 of 30000 total bound parameter sets ...  (29999, 80000.0, 1, 3, 1, 41, 1, -1, 0, 0, 0, -1, -1645.0, 78379.0, 76304.0, 52774.0, 11855.0, 48944.0, 85900.0, 3409.0, 1178.0, 1926.0, 52964.0, 1804.0, 1), (30000, 50000.0, 1, 2, 1, 46, 0, 0, 0, 0, 0, 0, 47929.0, 48905.0, 49764.0, 36535.0, 32428.0, 15313.0, 2078.0, 1800.0, 1430.0, 1000.0, 1000.0, 1000.0, 1))]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-03-10/18:37:31		Attempting to connect with mysql
+2023-03-10/18:37:31		Connection successful
+2023-03-10/18:37:31		Creating database in mysql
+2023-03-10/18:37:31		Created database in mysql
+2023-03-10/18:37:31		Attempting to connect with mysql
+2023-03-10/18:37:31		Connection successful
+2023-03-10/18:37:31		Create table method initialised
+2023-03-10/18:37:31		Attempting to connect with mysql
+2023-03-10/18:37:31		Connection successful
+2023-03-10/18:37:31		Inserting data into sql table method initialised
+2023-03-10/18:37:31		Error while inserting data in database: (MySQLdb.OperationalError) (1054, "Unknown column 'default.payment.next.month' in 'field list'")
+[SQL: INSERT INTO `Good_Raw_Data1` (`ID`, `LIMIT_BAL`, `SEX`, `EDUCATION`, `MARRIAGE`, `AGE`, `PAY_0`, `PAY_2`, `PAY_3`, `PAY_4`, `PAY_5`, `PAY_6`, `BILL_AMT1`, `BILL_AMT2`, `BILL_AMT3`, `BILL_AMT4`, `BILL_AMT5`, `BILL_AMT6`, `PAY_AMT1`, `PAY_AMT2`, `PAY_AMT3`, `PAY_AMT4`, `PAY_AMT5`, `PAY_AMT6`, `default.payment.next.month`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)]
+[parameters: ((1, 20000.0, 2, 2, 1, 24, 2, 2, -1, -1, -2, -2, 3913.0, 3102.0, 689.0, 0.0, 0.0, 0.0, 0.0, 689.0, 0.0, 0.0, 0.0, 0.0, 1), (2, 120000.0, 2, 2, 2, 26, -1, 2, 0, 0, 0, 2, 2682.0, 1725.0, 2682.0, 3272.0, 3455.0, 3261.0, 0.0, 1000.0, 1000.0, 1000.0, 0.0, 2000.0, 1), (3, 90000.0, 2, 2, 2, 34, 0, 0, 0, 0, 0, 0, 29239.0, 14027.0, 13559.0, 14331.0, 14948.0, 15549.0, 1518.0, 1500.0, 1000.0, 1000.0, 1000.0, 5000.0, 0), (4, 50000.0, 2, 2, 1, 37, 0, 0, 0, 0, 0, 0, 46990.0, 48233.0, 49291.0, 28314.0, 28959.0, 29547.0, 2000.0, 2019.0, 1200.0, 1100.0, 1069.0, 1000.0, 0), (5, 50000.0, 1, 2, 1, 57, -1, 0, -1, 0, 0, 0, 8617.0, 5670.0, 35835.0, 20940.0, 19146.0, 19131.0, 2000.0, 36681.0, 10000.0, 9000.0, 689.0, 679.0, 0), (6, 50000.0, 1, 1, 2, 37, 0, 0, 0, 0, 0, 0, 64400.0, 57069.0, 57608.0, 19394.0, 19619.0, 20024.0, 2500.0, 1815.0, 657.0, 1000.0, 1000.0, 800.0, 0), (7, 500000.0, 1, 1, 2, 29, 0, 0, 0, 0, 0, 0, 367965.0, 412023.0, 445007.0, 542653.0, 483003.0, 473944.0, 55000.0, 40000.0, 38000.0, 20239.0, 13750.0, 13770.0, 0), (8, 100000.0, 2, 2, 2, 23, 0, -1, -1, 0, 0, -1, 11876.0, 380.0, 601.0, 221.0, -159.0, 567.0, 380.0, 601.0, 0.0, 581.0, 1687.0, 1542.0, 0)  ... displaying 10 of 30000 total bound parameter sets ...  (29999, 80000.0, 1, 3, 1, 41, 1, -1, 0, 0, 0, -1, -1645.0, 78379.0, 76304.0, 52774.0, 11855.0, 48944.0, 85900.0, 3409.0, 1178.0, 1926.0, 52964.0, 1804.0, 1), (30000, 50000.0, 1, 2, 1, 46, 0, 0, 0, 0, 0, 0, 47929.0, 48905.0, 49764.0, 36535.0, 32428.0, 15313.0, 2078.0, 1800.0, 1430.0, 1000.0, 1000.0, 1000.0, 1))]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-03-10/18:41:51		Attempting to connect with mysql
+2023-03-10/18:41:51		Connection successful
+2023-03-10/18:41:51		Creating database in mysql
+2023-03-10/18:41:51		Created database in mysql
+2023-03-10/18:41:51		Attempting to connect with mysql
+2023-03-10/18:41:51		Connection successful
+2023-03-10/18:41:51		Create table method initialised
+2023-03-10/18:41:51		Error while creating table in database: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.payment.next.month INTEGER)' at line 1
+2023-03-10/18:44:04		Attempting to connect with mysql
+2023-03-10/18:44:04		Connection successful
+2023-03-10/18:44:04		Creating database in mysql
+2023-03-10/18:44:04		Created database in mysql
+2023-03-10/18:44:04		Attempting to connect with mysql
+2023-03-10/18:44:04		Connection successful
+2023-03-10/18:44:04		Create table method initialised
+2023-03-10/18:44:05		Attempting to connect with mysql
+2023-03-10/18:44:05		Connection successful
+2023-03-10/18:44:05		Inserting data into sql table method initialised
+2023-03-10/18:44:07		Data inserted into table
+2023-03-10/18:44:07		Attempting to connect with mysql
+2023-03-10/18:44:07		Connection successful
+2023-03-10/18:44:07		Exporting data into csv file
+2023-03-10/18:44:07		Error while exporting data into csv file: <class 'Exception'>
+2023-03-10/18:46:19		Attempting to connect with mysql
+2023-03-10/18:46:19		Connection successful
+2023-03-10/18:46:19		Creating database in mysql
+2023-03-10/18:46:19		Created database in mysql
+2023-03-10/18:46:19		Attempting to connect with mysql
+2023-03-10/18:46:19		Connection successful
+2023-03-10/18:46:19		Create table method initialised
+2023-03-10/18:46:20		Attempting to connect with mysql
+2023-03-10/18:46:20		Connection successful
+2023-03-10/18:46:20		Inserting data into sql table method initialised
+2023-03-10/18:46:22		Data inserted into table
+2023-03-10/18:46:22		Attempting to connect with mysql
+2023-03-10/18:46:22		Connection successful
+2023-03-10/18:46:22		Exporting data into csv file
+2023-03-10/18:47:42		Attempting to connect with mysql
+2023-03-10/18:47:43		Connection successful
+2023-03-10/18:47:42		Creating database in mysql
+2023-03-10/18:47:43		Created database in mysql
+2023-03-10/18:47:43		Attempting to connect with mysql
+2023-03-10/18:47:43		Connection successful
+2023-03-10/18:47:43		Create table method initialised
+2023-03-10/18:47:43		Attempting to connect with mysql
+2023-03-10/18:47:43		Connection successful
+2023-03-10/18:47:43		Inserting data into sql table method initialised
+2023-03-10/18:47:45		Data inserted into table
+2023-03-10/18:48:56		Attempting to connect with mysql
+2023-03-10/18:48:56		Connection successful
+2023-03-10/18:48:56		Creating database in mysql
+2023-03-10/18:48:56		Created database in mysql
+2023-03-10/18:48:56		Attempting to connect with mysql
+2023-03-10/18:48:56		Connection successful
+2023-03-10/18:48:56		Create table method initialised
+2023-03-10/18:48:56		Attempting to connect with mysql
+2023-03-10/18:48:56		Connection successful
+2023-03-10/18:48:56		Inserting data into sql table method initialised
+2023-03-10/18:48:58		Data inserted into table
+2023-03-10/18:48:58		Attempting to connect with mysql
+2023-03-10/18:48:58		Connection successful
+2023-03-10/18:48:58		Exporting data into csv file
+2023-03-10/18:48:58		Error while exporting data into csv file: <class 'Exception'>
+2023-03-10/18:50:10		Attempting to connect with mysql
+2023-03-10/18:50:10		Connection successful
+2023-03-10/18:50:10		Creating database in mysql
+2023-03-10/18:50:11		Created database in mysql
+2023-03-10/18:50:11		Attempting to connect with mysql
+2023-03-10/18:50:11		Connection successful
+2023-03-10/18:50:11		Create table method initialised
+2023-03-10/18:50:11		Attempting to connect with mysql
+2023-03-10/18:50:11		Connection successful
+2023-03-10/18:50:11		Inserting data into sql table method initialised
+2023-03-10/18:50:13		Data inserted into table
+2023-03-10/18:50:13		Attempting to connect with mysql
+2023-03-10/18:50:13		Connection successful
+2023-03-10/18:50:13		Exporting data into csv file
+2023-03-10/18:50:13		Error while exporting data into csv file: <class 'Exception'>
+2023-03-10/18:53:15		Attempting to connect with mysql
+2023-03-10/18:53:15		Connection successful
+2023-03-10/18:53:15		Creating database in mysql
+2023-03-10/18:53:15		Created database in mysql
+2023-03-10/18:53:15		Attempting to connect with mysql
+2023-03-10/18:53:15		Connection successful
+2023-03-10/18:53:15		Create table method initialised
+2023-03-10/18:53:15		Attempting to connect with mysql
+2023-03-10/18:53:15		Connection successful
+2023-03-10/18:53:15		Inserting data into sql table method initialised
+2023-03-10/18:53:18		Data inserted into table
+2023-03-10/18:53:18		Attempting to connect with mysql
+2023-03-10/18:53:18		Connection successful
+2023-03-10/18:53:18		Exporting data into csv file
+2023-03-10/18:53:18		Error while exporting data into csv file: <class 'Exception'>
+2023-03-10/18:54:50		Attempting to connect with mysql
+2023-03-10/18:54:50		Connection successful
+2023-03-10/18:54:50		Creating database in mysql
+2023-03-10/18:54:50		Created database in mysql
+2023-03-10/18:54:50		Attempting to connect with mysql
+2023-03-10/18:54:50		Connection successful
+2023-03-10/18:54:50		Create table method initialised
+2023-03-10/18:54:50		Attempting to connect with mysql
+2023-03-10/18:54:50		Connection successful
+2023-03-10/18:54:50		Inserting data into sql table method initialised
+2023-03-10/18:54:53		Data inserted into table
+2023-03-10/18:54:53		Attempting to connect with mysql
+2023-03-10/18:54:53		Connection successful
+2023-03-10/18:54:53		Exporting data into csv file
+2023-03-10/18:54:53		Error while exporting data into csv file: <class 'Exception'>
+2023-03-10/18:59:45		Attempting to connect with mysql
+2023-03-10/18:59:45		Connection successful
+2023-03-10/18:59:45		Creating database in mysql
+2023-03-10/18:59:45		Created database in mysql
+2023-03-10/18:59:45		Attempting to connect with mysql
+2023-03-10/18:59:46		Connection successful
+2023-03-10/18:59:45		Create table method initialised
+2023-03-10/18:59:46		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-10/19:00:02		Attempting to connect with mysql
+2023-03-10/19:00:02		Connection successful
+2023-03-10/19:00:02		Creating database in mysql
+2023-03-10/19:00:02		Created database in mysql
+2023-03-10/19:00:02		Attempting to connect with mysql
+2023-03-10/19:00:02		Connection successful
+2023-03-10/19:00:02		Create table method initialised
+2023-03-10/19:00:02		Attempting to connect with mysql
+2023-03-10/19:00:02		Connection successful
+2023-03-10/19:00:02		Inserting data into sql table method initialised
+2023-03-10/19:00:05		Data inserted into table
+2023-03-10/19:00:05		Attempting to connect with mysql
+2023-03-10/19:00:05		Connection successful
+2023-03-10/19:00:05		Exporting data into csv file
+2023-03-10/19:00:05		Error while exporting data into csv file: Execution failed on sql 'SELECT * good_raw_data': 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'good_raw_data' at line 1
+2023-03-10/19:01:56		Attempting to connect with mysql
+2023-03-10/19:01:56		Connection successful
+2023-03-10/19:01:56		Creating database in mysql
+2023-03-10/19:01:56		Created database in mysql
+2023-03-10/19:01:56		Attempting to connect with mysql
+2023-03-10/19:01:56		Connection successful
+2023-03-10/19:01:56		Create table method initialised
+2023-03-10/19:01:56		Attempting to connect with mysql
+2023-03-10/19:01:56		Connection successful
+2023-03-10/19:01:56		Inserting data into sql table method initialised
+2023-03-10/19:01:59		Data inserted into table
+2023-03-10/19:01:59		Attempting to connect with mysql
+2023-03-10/19:01:59		Connection successful
+2023-03-10/19:01:59		Exporting data into csv file
+2023-03-10/19:01:59		Error while exporting data into csv file: Execution failed on sql 'SELECT * good_raw_data': 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'good_raw_data' at line 1
+2023-03-10/22:23:41		Attempting to connect with mysql
+2023-03-10/22:23:41		Connection successful
+2023-03-10/22:23:41		Creating database in mysql
+2023-03-10/22:23:41		Created database in mysql
+2023-03-10/22:23:41		Attempting to connect with mysql
+2023-03-10/22:23:41		Connection successful
+2023-03-10/22:23:41		Create table method initialised
+2023-03-10/22:23:41		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-10/22:24:31		Attempting to connect with mysql
+2023-03-10/22:24:31		Connection successful
+2023-03-10/22:24:31		Creating database in mysql
+2023-03-10/22:24:32		Created database in mysql
+2023-03-10/22:24:32		Attempting to connect with mysql
+2023-03-10/22:24:32		Connection successful
+2023-03-10/22:24:32		Create table method initialised
+2023-03-10/22:24:32		Attempting to connect with mysql
+2023-03-10/22:24:32		Connection successful
+2023-03-10/22:24:32		Inserting data into sql table method initialised
+2023-03-10/22:24:34		Data inserted into table
+2023-03-10/22:24:34		Attempting to connect with mysql
+2023-03-10/22:24:34		Connection successful
+2023-03-10/22:24:34		Exporting data into csv file
+2023-03-10/22:24:34		Error while exporting data into csv file: Execution failed on sql 'SELECT * good_raw_data': 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'good_raw_data' at line 1
+2023-03-10/22:31:47		Attempting to connect with mysql
+2023-03-10/22:31:47		Connection successful
+2023-03-10/22:31:47		Creating database in mysql
+2023-03-10/22:31:47		Created database in mysql
+2023-03-10/22:31:47		Attempting to connect with mysql
+2023-03-10/22:31:47		Connection successful
+2023-03-10/22:31:47		Create table method initialised
+2023-03-10/22:31:47		Attempting to connect with mysql
+2023-03-10/22:31:47		Connection successful
+2023-03-10/22:31:47		Inserting data into sql table method initialised
+2023-03-10/22:31:49		Data inserted into table
+2023-03-10/22:31:49		Attempting to connect with mysql
+2023-03-10/22:31:49		Connection successful
+2023-03-10/22:31:49		Exporting data into csv file
+2023-03-10/22:31:49		Error while exporting data into csv file: Execution failed on sql 'SELECT * good_raw_data': 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'good_raw_data' at line 1
+2023-03-10/22:39:09		Attempting to connect with mysql
+2023-03-10/22:39:09		Connection successful
+2023-03-10/22:39:09		Creating database in mysql
+2023-03-10/22:39:09		Created database in mysql
+2023-03-10/22:39:09		Attempting to connect with mysql
+2023-03-10/22:39:09		Connection successful
+2023-03-10/22:39:09		Create table method initialised
+2023-03-10/22:39:09		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-10/22:39:33		Attempting to connect with mysql
+2023-03-10/22:39:33		Connection successful
+2023-03-10/22:39:33		Creating database in mysql
+2023-03-10/22:39:33		Created database in mysql
+2023-03-10/22:39:33		Attempting to connect with mysql
+2023-03-10/22:39:33		Connection successful
+2023-03-10/22:39:33		Create table method initialised
+2023-03-10/22:39:33		Attempting to connect with mysql
+2023-03-10/22:39:33		Connection successful
+2023-03-10/22:39:33		Inserting data into sql table method initialised
+2023-03-10/22:39:35		Data inserted into table
+2023-03-10/22:39:35		Attempting to connect with mysql
+2023-03-10/22:39:35		Connection successful
+2023-03-10/22:39:35		Exporting data into csv file
+2023-03-10/22:39:35		Error while exporting data into csv file: (MySQLdb.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'good_raw_data' at line 1")
+[SQL: SELECT * good_raw_data]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2023-03-10/22:41:12		Attempting to connect with mysql
+2023-03-10/22:41:12		Connection successful
+2023-03-10/22:41:12		Creating database in mysql
+2023-03-10/22:41:12		Created database in mysql
+2023-03-10/22:41:12		Attempting to connect with mysql
+2023-03-10/22:41:12		Connection successful
+2023-03-10/22:41:12		Create table method initialised
+2023-03-10/22:41:12		Attempting to connect with mysql
+2023-03-10/22:41:12		Connection successful
+2023-03-10/22:41:12		Inserting data into sql table method initialised
+2023-03-10/22:41:14		Data inserted into table
+2023-03-10/22:41:14		Attempting to connect with mysql
+2023-03-10/22:41:14		Connection successful
+2023-03-10/22:41:14		Exporting data into csv file
+2023-03-10/22:41:14		Error while exporting data into csv file: Table SELECT * good_raw_data not found
+2023-03-10/22:42:38		Attempting to connect with mysql
+2023-03-10/22:42:38		Connection successful
+2023-03-10/22:42:38		Creating database in mysql
+2023-03-10/22:42:38		Created database in mysql
+2023-03-10/22:42:38		Attempting to connect with mysql
+2023-03-10/22:42:38		Connection successful
+2023-03-10/22:42:38		Create table method initialised
+2023-03-10/22:42:38		Attempting to connect with mysql
+2023-03-10/22:42:38		Connection successful
+2023-03-10/22:42:38		Inserting data into sql table method initialised
+2023-03-10/22:42:40		Data inserted into table
+2023-03-10/22:42:40		Attempting to connect with mysql
+2023-03-10/22:42:40		Connection successful
+2023-03-10/22:42:40		Exporting data into csv file
+2023-03-10/22:42:40		Error while exporting data into csv file: Table SELECT * good_raw_data not found
+2023-03-10/22:43:48		Attempting to connect with mysql
+2023-03-10/22:43:48		Connection successful
+2023-03-10/22:43:48		Creating database in mysql
+2023-03-10/22:43:48		Created database in mysql
+2023-03-10/22:43:48		Attempting to connect with mysql
+2023-03-10/22:43:48		Connection successful
+2023-03-10/22:43:48		Create table method initialised
+2023-03-10/22:43:48		Attempting to connect with mysql
+2023-03-10/22:43:48		Connection successful
+2023-03-10/22:43:48		Inserting data into sql table method initialised
+2023-03-10/22:43:50		Data inserted into table
+2023-03-10/22:43:50		Attempting to connect with mysql
+2023-03-10/22:43:50		Connection successful
+2023-03-10/22:43:50		Exporting data into csv file
+2023-03-10/22:43:50		Error while exporting data into csv file: Table SELECT * good_raw_data not found
+2023-03-10/22:46:15		Attempting to connect with mysql
+2023-03-10/22:46:15		Connection successful
+2023-03-10/22:46:15		Creating database in mysql
+2023-03-10/22:46:15		Created database in mysql
+2023-03-10/22:46:15		Attempting to connect with mysql
+2023-03-10/22:46:15		Connection successful
+2023-03-10/22:46:15		Create table method initialised
+2023-03-10/22:46:15		Attempting to connect with mysql
+2023-03-10/22:46:15		Connection successful
+2023-03-10/22:46:15		Inserting data into sql table method initialised
+2023-03-10/22:46:17		Data inserted into table
+2023-03-10/22:46:17		Attempting to connect with mysql
+2023-03-10/22:46:17		Connection successful
+2023-03-10/22:46:17		Exporting data into csv file
+2023-03-10/22:55:42		Attempting to connect with mysql
+2023-03-10/22:55:42		Connection successful
+2023-03-10/22:55:42		Creating database in mysql
+2023-03-10/22:55:42		Created database in mysql
+2023-03-10/22:55:42		Attempting to connect with mysql
+2023-03-10/22:55:42		Connection successful
+2023-03-10/22:55:42		Create table method initialised
+2023-03-10/22:55:42		Attempting to connect with mysql
+2023-03-10/22:55:42		Connection successful
+2023-03-10/22:55:42		Inserting data into sql table method initialised
+2023-03-10/22:55:44		Data inserted into table
+2023-03-10/22:55:44		Error while inserting data in database: name 'con' is not defined
+2023-03-10/22:57:49		Attempting to connect with mysql
+2023-03-10/22:57:49		Connection successful
+2023-03-10/22:57:49		Creating database in mysql
+2023-03-10/22:57:49		Created database in mysql
+2023-03-10/22:57:49		Attempting to connect with mysql
+2023-03-10/22:57:49		Connection successful
+2023-03-10/22:57:49		Create table method initialised
+2023-03-10/22:57:50		Attempting to connect with mysql
+2023-03-10/22:57:50		Connection successful
+2023-03-10/22:57:50		Inserting data into sql table method initialised
+2023-03-10/22:57:51		Data inserted into table
+2023-03-10/22:57:51		Attempting to connect with mysql
+2023-03-10/22:57:51		Connection successful
+2023-03-10/22:57:51		Exporting data into csv file
+2023-03-10/22:59:24		Attempting to connect with mysql
+2023-03-10/22:59:24		Connection successful
+2023-03-10/22:59:24		Creating database in mysql
+2023-03-10/22:59:24		Created database in mysql
+2023-03-10/22:59:24		Attempting to connect with mysql
+2023-03-10/22:59:24		Connection successful
+2023-03-10/22:59:24		Create table method initialised
+2023-03-10/22:59:24		Attempting to connect with mysql
+2023-03-10/22:59:24		Connection successful
+2023-03-10/22:59:24		Inserting data into sql table method initialised
+2023-03-10/22:59:26		Data inserted into table
+2023-03-10/22:59:26		Attempting to connect with mysql
+2023-03-10/22:59:26		Connection successful
+2023-03-10/22:59:26		Exporting data into csv file
+2023-03-10/23:02:26		Attempting to connect with mysql
+2023-03-10/23:02:26		Connection successful
+2023-03-10/23:02:26		Creating database in mysql
+2023-03-10/23:02:27		Created database in mysql
+2023-03-10/23:02:27		Attempting to connect with mysql
+2023-03-10/23:02:27		Connection successful
+2023-03-10/23:02:27		Create table method initialised
+2023-03-10/23:02:27		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-10/23:02:49		Attempting to connect with mysql
+2023-03-10/23:02:49		Connection successful
+2023-03-10/23:02:49		Creating database in mysql
+2023-03-10/23:02:49		Created database in mysql
+2023-03-10/23:02:49		Attempting to connect with mysql
+2023-03-10/23:02:49		Connection successful
+2023-03-10/23:02:49		Create table method initialised
+2023-03-10/23:02:49		Attempting to connect with mysql
+2023-03-10/23:02:49		Connection successful
+2023-03-10/23:02:49		Inserting data into sql table method initialised
+2023-03-10/23:02:51		Data inserted into table
+2023-03-10/23:02:51		Attempting to connect with mysql
+2023-03-10/23:02:51		Connection successful
+2023-03-10/23:02:51		Exporting data into csv file
+2023-03-10/23:04:15		Attempting to connect with mysql
+2023-03-10/23:04:15		Connection successful
+2023-03-10/23:04:15		Creating database in mysql
+2023-03-10/23:04:15		Created database in mysql
+2023-03-10/23:04:15		Attempting to connect with mysql
+2023-03-10/23:04:15		Connection successful
+2023-03-10/23:04:15		Create table method initialised
+2023-03-10/23:04:15		Attempting to connect with mysql
+2023-03-10/23:04:15		Connection successful
+2023-03-10/23:04:15		Inserting data into sql table method initialised
+2023-03-10/23:04:17		Data inserted into table
+2023-03-10/23:04:17		Attempting to connect with mysql
+2023-03-10/23:04:17		Connection successful
+2023-03-10/23:04:17		Exporting data into csv file
+2023-03-10/23:06:41		Attempting to connect with mysql
+2023-03-10/23:06:41		Connection successful
+2023-03-10/23:06:41		Creating database in mysql
+2023-03-10/23:06:41		Created database in mysql
+2023-03-10/23:06:41		Attempting to connect with mysql
+2023-03-10/23:06:41		Connection successful
+2023-03-10/23:06:41		Create table method initialised
+2023-03-10/23:06:41		Attempting to connect with mysql
+2023-03-10/23:06:41		Connection successful
+2023-03-10/23:06:41		Inserting data into sql table method initialised
+2023-03-10/23:06:43		Data inserted into table
+2023-03-10/23:06:43		Attempting to connect with mysql
+2023-03-10/23:06:43		Connection successful
+2023-03-10/23:06:43		Exporting data into csv file
+2023-03-10/23:09:00		Attempting to connect with mysql
+2023-03-10/23:09:00		Connection successful
+2023-03-10/23:09:00		Creating database in mysql
+2023-03-10/23:09:00		Created database in mysql
+2023-03-10/23:09:00		Attempting to connect with mysql
+2023-03-10/23:09:00		Connection successful
+2023-03-10/23:09:00		Create table method initialised
+2023-03-10/23:09:00		Attempting to connect with mysql
+2023-03-10/23:09:00		Connection successful
+2023-03-10/23:09:00		Inserting data into sql table method initialised
+2023-03-10/23:09:02		Data inserted into table
+2023-03-10/23:09:02		Attempting to connect with mysql
+2023-03-10/23:09:02		Connection successful
+2023-03-10/23:09:02		Exporting data into csv file
+2023-03-10/23:12:45		Attempting to connect with mysql
+2023-03-10/23:12:45		Connection successful
+2023-03-10/23:12:45		Creating database in mysql
+2023-03-10/23:12:45		Created database in mysql
+2023-03-10/23:12:45		Attempting to connect with mysql
+2023-03-10/23:12:45		Connection successful
+2023-03-10/23:12:45		Create table method initialised
+2023-03-10/23:12:45		Attempting to connect with mysql
+2023-03-10/23:12:45		Connection successful
+2023-03-10/23:12:45		Inserting data into sql table method initialised
+2023-03-10/23:12:47		Data inserted into table
+2023-03-10/23:12:47		Attempting to connect with mysql
+2023-03-10/23:12:47		Connection successful
+2023-03-10/23:12:47		Exporting data into csv file
+2023-03-10/23:17:50		Attempting to connect with mysql
+2023-03-10/23:17:50		Connection successful
+2023-03-10/23:17:50		Creating database in mysql
+2023-03-10/23:17:50		Created database in mysql
+2023-03-10/23:17:50		Attempting to connect with mysql
+2023-03-10/23:17:50		Connection successful
+2023-03-10/23:17:50		Create table method initialised
+2023-03-10/23:17:50		Attempting to connect with mysql
+2023-03-10/23:17:50		Connection successful
+2023-03-10/23:17:50		Inserting data into sql table method initialised
+2023-03-10/23:17:52		Data inserted into table
+2023-03-10/23:17:52		Attempting to connect with mysql
+2023-03-10/23:17:52		Connection successful
+2023-03-10/23:17:52		Exporting data into csv file
+2023-03-10/23:26:26		Attempting to connect with mysql
+2023-03-10/23:26:26		Connection successful
+2023-03-10/23:26:26		Creating database in mysql
+2023-03-10/23:26:26		Created database in mysql
+2023-03-10/23:26:26		Attempting to connect with mysql
+2023-03-10/23:26:26		Connection successful
+2023-03-10/23:26:26		Create table method initialised
+2023-03-10/23:26:26		Attempting to connect with mysql
+2023-03-10/23:26:26		Connection successful
+2023-03-10/23:26:26		Inserting data into sql table method initialised
+2023-03-10/23:26:28		Data inserted into table
+2023-03-10/23:26:28		Attempting to connect with mysql
+2023-03-10/23:26:28		Connection successful
+2023-03-10/23:26:28		Exporting data into csv file
+2023-03-10/23:27:59		Attempting to connect with mysql
+2023-03-10/23:27:59		Connection successful
+2023-03-10/23:27:59		Creating database in mysql
+2023-03-10/23:27:59		Created database in mysql
+2023-03-10/23:27:59		Attempting to connect with mysql
+2023-03-10/23:27:59		Connection successful
+2023-03-10/23:27:59		Create table method initialised
+2023-03-10/23:27:59		Attempting to connect with mysql
+2023-03-10/23:27:59		Connection successful
+2023-03-10/23:27:59		Inserting data into sql table method initialised
+2023-03-10/23:28:01		Data inserted into table
+2023-03-10/23:28:01		Attempting to connect with mysql
+2023-03-10/23:28:01		Connection successful
+2023-03-10/23:28:01		Exporting data into csv file
+2023-03-10/23:38:11		Attempting to connect with mysql
+2023-03-10/23:38:11		Connection successful
+2023-03-10/23:38:11		Creating database in mysql
+2023-03-10/23:38:11		Created database in mysql
+2023-03-10/23:38:11		Attempting to connect with mysql
+2023-03-10/23:38:11		Connection successful
+2023-03-10/23:38:11		Create table method initialised
+2023-03-10/23:38:11		Attempting to connect with mysql
+2023-03-10/23:38:11		Connection successful
+2023-03-10/23:38:11		Inserting data into sql table method initialised
+2023-03-10/23:38:13		Data inserted into table
+2023-03-10/23:38:13		Attempting to connect with mysql
+2023-03-10/23:38:13		Connection successful
+2023-03-10/23:38:13		Exporting data into csv file
+2023-03-10/23:40:40		Attempting to connect with mysql
+2023-03-10/23:40:40		Connection successful
+2023-03-10/23:40:40		Creating database in mysql
+2023-03-10/23:40:40		Created database in mysql
+2023-03-10/23:40:40		Attempting to connect with mysql
+2023-03-10/23:40:41		Connection successful
+2023-03-10/23:40:40		Create table method initialised
+2023-03-10/23:40:41		Attempting to connect with mysql
+2023-03-10/23:40:41		Connection successful
+2023-03-10/23:40:41		Inserting data into sql table method initialised
+2023-03-10/23:40:42		Data inserted into table
+2023-03-10/23:40:42		Attempting to connect with mysql
+2023-03-10/23:40:42		Connection successful
+2023-03-10/23:40:42		Exporting data into csv file
+2023-03-10/23:42:43		Attempting to connect with mysql
+2023-03-10/23:42:43		Connection successful
+2023-03-10/23:42:43		Creating database in mysql
+2023-03-10/23:42:43		Created database in mysql
+2023-03-10/23:42:43		Attempting to connect with mysql
+2023-03-10/23:42:43		Connection successful
+2023-03-10/23:42:43		Create table method initialised
+2023-03-10/23:42:43		Attempting to connect with mysql
+2023-03-10/23:42:43		Connection successful
+2023-03-10/23:42:43		Inserting data into sql table method initialised
+2023-03-10/23:42:45		Data inserted into table
+2023-03-10/23:42:45		Attempting to connect with mysql
+2023-03-10/23:42:45		Connection successful
+2023-03-10/23:42:45		Exporting data into csv file
+2023-03-10/23:45:01		Attempting to connect with mysql
+2023-03-10/23:45:01		Connection successful
+2023-03-10/23:45:01		Creating database in mysql
+2023-03-10/23:45:01		Created database in mysql
+2023-03-10/23:45:01		Attempting to connect with mysql
+2023-03-10/23:45:01		Connection successful
+2023-03-10/23:45:01		Create table method initialised
+2023-03-10/23:45:01		Attempting to connect with mysql
+2023-03-10/23:45:02		Connection successful
+2023-03-10/23:45:01		Inserting data into sql table method initialised
+2023-03-10/23:45:03		Data inserted into table
+2023-03-10/23:45:03		Attempting to connect with mysql
+2023-03-10/23:45:03		Connection successful
+2023-03-10/23:45:03		Exporting data into csv file
+2023-03-11/19:05:57		Attempting to connect with mysql
+2023-03-11/19:05:57		Connection successful
+2023-03-11/19:05:57		Creating database in mysql
+2023-03-11/19:05:57		Created database in mysql
+2023-03-11/19:05:57		Attempting to connect with mysql
+2023-03-11/19:05:58		Connection successful
+2023-03-11/19:05:57		Create table method initialised
+2023-03-11/19:05:58		Attempting to connect with mysql
+2023-03-11/19:05:58		Connection successful
+2023-03-11/19:05:58		Inserting data into sql table method initialised
+2023-03-11/19:06:01		Data inserted into table
+2023-03-11/19:06:01		Attempting to connect with mysql
+2023-03-11/19:06:01		Connection successful
+2023-03-11/19:06:01		Exporting data into csv file
+2023-03-11/20:11:30		Attempting to connect with mysql
+2023-03-11/20:11:30		Connection successful
+2023-03-11/20:11:30		Creating database in mysql
+2023-03-11/20:11:30		Created database in mysql
+2023-03-11/20:11:30		Attempting to connect with mysql
+2023-03-11/20:11:30		Connection successful
+2023-03-11/20:11:30		Create table method initialised
+2023-03-11/20:11:30		Attempting to connect with mysql
+2023-03-11/20:11:30		Connection successful
+2023-03-11/20:11:30		Inserting data into sql table method initialised
+2023-03-11/20:11:32		Data inserted into table
+2023-03-11/20:11:32		Attempting to connect with mysql
+2023-03-11/20:11:32		Connection successful
+2023-03-11/20:11:32		Exporting data into csv file
+2023-03-11/20:13:42		Attempting to connect with mysql
+2023-03-11/20:13:42		Connection successful
+2023-03-11/20:13:42		Creating database in mysql
+2023-03-11/20:13:42		Created database in mysql
+2023-03-11/20:13:42		Attempting to connect with mysql
+2023-03-11/20:13:42		Connection successful
+2023-03-11/20:13:42		Create table method initialised
+2023-03-11/20:13:43		Attempting to connect with mysql
+2023-03-11/20:13:43		Connection successful
+2023-03-11/20:13:43		Inserting data into sql table method initialised
+2023-03-11/20:13:44		Data inserted into table
+2023-03-11/20:13:44		Attempting to connect with mysql
+2023-03-11/20:13:44		Connection successful
+2023-03-11/20:13:44		Exporting data into csv file
+2023-03-11/20:27:32		Attempting to connect with mysql
+2023-03-11/20:27:32		Connection successful
+2023-03-11/20:27:32		Creating database in mysql
+2023-03-11/20:27:32		Created database in mysql
+2023-03-11/20:27:32		Attempting to connect with mysql
+2023-03-11/20:27:32		Connection successful
+2023-03-11/20:27:32		Create table method initialised
+2023-03-11/20:27:32		Attempting to connect with mysql
+2023-03-11/20:27:32		Connection successful
+2023-03-11/20:27:32		Inserting data into sql table method initialised
+2023-03-11/20:27:34		Data inserted into table
+2023-03-11/20:27:34		Attempting to connect with mysql
+2023-03-11/20:27:34		Connection successful
+2023-03-11/20:27:34		Exporting data into csv file
+2023-03-11/20:41:16		Attempting to connect with mysql
+2023-03-11/20:41:16		Connection successful
+2023-03-11/20:41:16		Creating database in mysql
+2023-03-11/20:41:16		Created database in mysql
+2023-03-11/20:41:16		Attempting to connect with mysql
+2023-03-11/20:41:16		Connection successful
+2023-03-11/20:41:16		Create table method initialised
+2023-03-11/20:41:16		Attempting to connect with mysql
+2023-03-11/20:41:16		Connection successful
+2023-03-11/20:41:16		Inserting data into sql table method initialised
+2023-03-11/20:41:18		Data inserted into table
+2023-03-11/20:41:18		Attempting to connect with mysql
+2023-03-11/20:41:18		Connection successful
+2023-03-11/20:41:18		Exporting data into csv file
+2023-03-11/21:40:56		Attempting to connect with mysql
+2023-03-11/21:40:56		Connection successful
+2023-03-11/21:40:56		Creating database in mysql
+2023-03-11/21:40:56		Created database in mysql
+2023-03-11/21:40:56		Attempting to connect with mysql
+2023-03-11/21:40:56		Connection successful
+2023-03-11/21:40:56		Create table method initialised
+2023-03-11/21:40:57		Attempting to connect with mysql
+2023-03-11/21:40:57		Connection successful
+2023-03-11/21:40:57		Inserting data into sql table method initialised
+2023-03-11/21:40:58		Data inserted into table
+2023-03-11/21:40:58		Attempting to connect with mysql
+2023-03-11/21:40:58		Connection successful
+2023-03-11/21:40:58		Exporting data into csv file
+2023-03-11/21:41:01		Attempting to connect with mysql
+2023-03-11/21:41:01		Connection successful
+2023-03-11/21:41:01		Creating database in mysql
+2023-03-11/21:41:01		Created database in mysql
+2023-03-11/21:41:01		Attempting to connect with mysql
+2023-03-11/21:41:01		Connection successful
+2023-03-11/21:41:01		Create table method initialised
+2023-03-11/21:41:01		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/21:43:55		Attempting to connect with mysql
+2023-03-11/21:43:55		Connection successful
+2023-03-11/21:43:55		Creating database in mysql
+2023-03-11/21:43:55		Created database in mysql
+2023-03-11/21:43:55		Attempting to connect with mysql
+2023-03-11/21:43:55		Connection successful
+2023-03-11/21:43:55		Create table method initialised
+2023-03-11/21:43:55		Attempting to connect with mysql
+2023-03-11/21:43:55		Connection successful
+2023-03-11/21:43:55		Inserting data into sql table method initialised
+2023-03-11/21:43:57		Data inserted into table
+2023-03-11/21:43:57		Attempting to connect with mysql
+2023-03-11/21:43:57		Connection successful
+2023-03-11/21:43:57		Exporting data into csv file
+2023-03-11/21:49:17		Attempting to connect with mysql
+2023-03-11/21:49:17		Connection successful
+2023-03-11/21:49:17		Creating database in mysql
+2023-03-11/21:49:17		Created database in mysql
+2023-03-11/21:49:17		Attempting to connect with mysql
+2023-03-11/21:49:17		Connection successful
+2023-03-11/21:49:17		Create table method initialised
+2023-03-11/21:49:17		Attempting to connect with mysql
+2023-03-11/21:49:17		Connection successful
+2023-03-11/21:49:17		Inserting data into sql table method initialised
+2023-03-11/21:49:19		Data inserted into table
+2023-03-11/21:49:19		Attempting to connect with mysql
+2023-03-11/21:49:19		Connection successful
+2023-03-11/21:49:19		Exporting data into csv file
+2023-03-11/21:51:19		Attempting to connect with mysql
+2023-03-11/21:51:19		Connection successful
+2023-03-11/21:51:19		Creating database in mysql
+2023-03-11/21:51:19		Created database in mysql
+2023-03-11/21:51:19		Attempting to connect with mysql
+2023-03-11/21:51:19		Connection successful
+2023-03-11/21:51:19		Create table method initialised
+2023-03-11/21:51:19		Attempting to connect with mysql
+2023-03-11/21:51:19		Connection successful
+2023-03-11/21:51:19		Inserting data into sql table method initialised
+2023-03-11/21:51:21		Data inserted into table
+2023-03-11/21:51:21		Attempting to connect with mysql
+2023-03-11/21:51:21		Connection successful
+2023-03-11/21:51:21		Exporting data into csv file
+2023-03-11/21:58:51		Attempting to connect with mysql
+2023-03-11/21:58:51		Connection successful
+2023-03-11/21:58:51		Creating database in mysql
+2023-03-11/21:58:51		Created database in mysql
+2023-03-11/21:58:51		Attempting to connect with mysql
+2023-03-11/21:58:51		Connection successful
+2023-03-11/21:58:51		Create table method initialised
+2023-03-11/21:58:51		Attempting to connect with mysql
+2023-03-11/21:58:51		Connection successful
+2023-03-11/21:58:51		Inserting data into sql table method initialised
+2023-03-11/21:58:53		Data inserted into table
+2023-03-11/21:58:53		Attempting to connect with mysql
+2023-03-11/21:58:53		Connection successful
+2023-03-11/21:58:53		Exporting data into csv file
+2023-03-11/22:00:04		Attempting to connect with mysql
+2023-03-11/22:00:04		Connection successful
+2023-03-11/22:00:04		Creating database in mysql
+2023-03-11/22:00:04		Created database in mysql
+2023-03-11/22:00:04		Attempting to connect with mysql
+2023-03-11/22:00:04		Connection successful
+2023-03-11/22:00:04		Create table method initialised
+2023-03-11/22:00:04		Attempting to connect with mysql
+2023-03-11/22:00:04		Connection successful
+2023-03-11/22:00:04		Inserting data into sql table method initialised
+2023-03-11/22:00:06		Data inserted into table
+2023-03-11/22:00:06		Attempting to connect with mysql
+2023-03-11/22:00:06		Connection successful
+2023-03-11/22:00:06		Exporting data into csv file
+2023-03-11/22:39:45		Attempting to connect with mysql
+2023-03-11/22:39:45		Connection successful
+2023-03-11/22:39:45		Creating database in mysql
+2023-03-11/22:39:45		Created database in mysql
+2023-03-11/22:39:45		Attempting to connect with mysql
+2023-03-11/22:39:45		Connection successful
+2023-03-11/22:39:45		Create table method initialised
+2023-03-11/22:39:45		Attempting to connect with mysql
+2023-03-11/22:39:45		Connection successful
+2023-03-11/22:39:45		Inserting data into sql table method initialised
+2023-03-11/22:39:47		Data inserted into table
+2023-03-11/22:39:47		Attempting to connect with mysql
+2023-03-11/22:39:47		Connection successful
+2023-03-11/22:39:47		Exporting data into csv file
+2023-03-11/22:44:22		Attempting to connect with mysql
+2023-03-11/22:44:22		Connection successful
+2023-03-11/22:44:22		Creating database in mysql
+2023-03-11/22:44:22		Created database in mysql
+2023-03-11/22:44:22		Attempting to connect with mysql
+2023-03-11/22:44:22		Connection successful
+2023-03-11/22:44:22		Create table method initialised
+2023-03-11/22:44:22		Attempting to connect with mysql
+2023-03-11/22:44:23		Connection successful
+2023-03-11/22:44:22		Inserting data into sql table method initialised
+2023-03-11/22:44:24		Data inserted into table
+2023-03-11/22:44:24		Attempting to connect with mysql
+2023-03-11/22:44:24		Connection successful
+2023-03-11/22:44:24		Exporting data into csv file
+2023-03-11/22:44:27		Attempting to connect with mysql
+2023-03-11/22:44:27		Connection successful
+2023-03-11/22:44:27		Creating database in mysql
+2023-03-11/22:44:27		Created database in mysql
+2023-03-11/22:44:27		Attempting to connect with mysql
+2023-03-11/22:44:27		Connection successful
+2023-03-11/22:44:27		Create table method initialised
+2023-03-11/22:44:27		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/22:45:39		Attempting to connect with mysql
+2023-03-11/22:45:39		Connection successful
+2023-03-11/22:45:39		Creating database in mysql
+2023-03-11/22:45:39		Created database in mysql
+2023-03-11/22:45:39		Attempting to connect with mysql
+2023-03-11/22:45:39		Connection successful
+2023-03-11/22:45:39		Create table method initialised
+2023-03-11/22:45:39		Attempting to connect with mysql
+2023-03-11/22:45:39		Connection successful
+2023-03-11/22:45:39		Inserting data into sql table method initialised
+2023-03-11/22:45:41		Data inserted into table
+2023-03-11/22:45:41		Attempting to connect with mysql
+2023-03-11/22:45:41		Connection successful
+2023-03-11/22:45:41		Exporting data into csv file
+2023-03-11/22:45:44		Attempting to connect with mysql
+2023-03-11/22:45:44		Connection successful
+2023-03-11/22:45:44		Creating database in mysql
+2023-03-11/22:45:44		Created database in mysql
+2023-03-11/22:45:44		Attempting to connect with mysql
+2023-03-11/22:45:44		Connection successful
+2023-03-11/22:45:44		Create table method initialised
+2023-03-11/22:45:44		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/22:47:32		Attempting to connect with mysql
+2023-03-11/22:47:32		Connection successful
+2023-03-11/22:47:32		Creating database in mysql
+2023-03-11/22:47:32		Created database in mysql
+2023-03-11/22:47:32		Attempting to connect with mysql
+2023-03-11/22:47:32		Connection successful
+2023-03-11/22:47:32		Create table method initialised
+2023-03-11/22:47:32		Attempting to connect with mysql
+2023-03-11/22:47:32		Connection successful
+2023-03-11/22:47:32		Inserting data into sql table method initialised
+2023-03-11/22:47:34		Data inserted into table
+2023-03-11/22:47:34		Attempting to connect with mysql
+2023-03-11/22:47:34		Connection successful
+2023-03-11/22:47:34		Exporting data into csv file
+2023-03-11/22:47:37		Attempting to connect with mysql
+2023-03-11/22:47:37		Connection successful
+2023-03-11/22:47:37		Creating database in mysql
+2023-03-11/22:47:37		Created database in mysql
+2023-03-11/22:47:37		Attempting to connect with mysql
+2023-03-11/22:47:37		Connection successful
+2023-03-11/22:47:37		Create table method initialised
+2023-03-11/22:47:37		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/22:50:31		Attempting to connect with mysql
+2023-03-11/22:50:31		Connection successful
+2023-03-11/22:50:31		Creating database in mysql
+2023-03-11/22:50:31		Created database in mysql
+2023-03-11/22:50:31		Attempting to connect with mysql
+2023-03-11/22:50:31		Connection successful
+2023-03-11/22:50:31		Create table method initialised
+2023-03-11/22:50:31		Attempting to connect with mysql
+2023-03-11/22:50:32		Connection successful
+2023-03-11/22:50:31		Inserting data into sql table method initialised
+2023-03-11/22:50:33		Data inserted into table
+2023-03-11/22:50:33		Attempting to connect with mysql
+2023-03-11/22:50:33		Connection successful
+2023-03-11/22:50:33		Exporting data into csv file
+2023-03-11/22:52:17		Attempting to connect with mysql
+2023-03-11/22:52:17		Connection successful
+2023-03-11/22:52:17		Creating database in mysql
+2023-03-11/22:52:17		Created database in mysql
+2023-03-11/22:52:17		Attempting to connect with mysql
+2023-03-11/22:52:17		Connection successful
+2023-03-11/22:52:17		Create table method initialised
+2023-03-11/22:52:17		Attempting to connect with mysql
+2023-03-11/22:52:18		Connection successful
+2023-03-11/22:52:17		Inserting data into sql table method initialised
+2023-03-11/22:52:19		Data inserted into table
+2023-03-11/22:52:19		Attempting to connect with mysql
+2023-03-11/22:52:19		Connection successful
+2023-03-11/22:52:19		Exporting data into csv file
+2023-03-11/22:54:10		Attempting to connect with mysql
+2023-03-11/22:54:10		Connection successful
+2023-03-11/22:54:10		Creating database in mysql
+2023-03-11/22:54:10		Created database in mysql
+2023-03-11/22:54:10		Attempting to connect with mysql
+2023-03-11/22:54:10		Connection successful
+2023-03-11/22:54:10		Create table method initialised
+2023-03-11/22:54:10		Attempting to connect with mysql
+2023-03-11/22:54:10		Connection successful
+2023-03-11/22:54:10		Inserting data into sql table method initialised
+2023-03-11/22:54:12		Data inserted into table
+2023-03-11/22:54:12		Attempting to connect with mysql
+2023-03-11/22:54:12		Connection successful
+2023-03-11/22:54:12		Exporting data into csv file
+2023-03-11/22:57:31		Attempting to connect with mysql
+2023-03-11/22:57:31		Connection successful
+2023-03-11/22:57:31		Creating database in mysql
+2023-03-11/22:57:31		Created database in mysql
+2023-03-11/22:57:31		Attempting to connect with mysql
+2023-03-11/22:57:31		Connection successful
+2023-03-11/22:57:31		Create table method initialised
+2023-03-11/22:57:31		Attempting to connect with mysql
+2023-03-11/22:57:31		Connection successful
+2023-03-11/22:57:31		Inserting data into sql table method initialised
+2023-03-11/22:57:33		Data inserted into table
+2023-03-11/22:57:33		Attempting to connect with mysql
+2023-03-11/22:57:33		Connection successful
+2023-03-11/22:57:33		Exporting data into csv file
+2023-03-11/22:57:36		Attempting to connect with mysql
+2023-03-11/22:57:36		Connection successful
+2023-03-11/22:57:36		Creating database in mysql
+2023-03-11/22:57:36		Created database in mysql
+2023-03-11/22:57:36		Attempting to connect with mysql
+2023-03-11/22:57:36		Connection successful
+2023-03-11/22:57:36		Create table method initialised
+2023-03-11/22:57:36		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/22:59:28		Attempting to connect with mysql
+2023-03-11/22:59:28		Connection successful
+2023-03-11/22:59:28		Creating database in mysql
+2023-03-11/22:59:28		Created database in mysql
+2023-03-11/22:59:28		Attempting to connect with mysql
+2023-03-11/22:59:28		Connection successful
+2023-03-11/22:59:28		Create table method initialised
+2023-03-11/22:59:28		Attempting to connect with mysql
+2023-03-11/22:59:28		Connection successful
+2023-03-11/22:59:28		Inserting data into sql table method initialised
+2023-03-11/22:59:30		Data inserted into table
+2023-03-11/22:59:30		Attempting to connect with mysql
+2023-03-11/22:59:30		Connection successful
+2023-03-11/22:59:30		Exporting data into csv file
+2023-03-11/22:59:33		Attempting to connect with mysql
+2023-03-11/22:59:33		Connection successful
+2023-03-11/22:59:33		Creating database in mysql
+2023-03-11/22:59:33		Created database in mysql
+2023-03-11/22:59:33		Attempting to connect with mysql
+2023-03-11/22:59:33		Connection successful
+2023-03-11/22:59:33		Create table method initialised
+2023-03-11/22:59:33		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:10:17		Attempting to connect with mysql
+2023-03-11/23:10:17		Connection successful
+2023-03-11/23:10:17		Creating database in mysql
+2023-03-11/23:10:17		Created database in mysql
+2023-03-11/23:10:17		Attempting to connect with mysql
+2023-03-11/23:10:17		Connection successful
+2023-03-11/23:10:17		Create table method initialised
+2023-03-11/23:10:17		Attempting to connect with mysql
+2023-03-11/23:10:17		Connection successful
+2023-03-11/23:10:17		Inserting data into sql table method initialised
+2023-03-11/23:10:19		Data inserted into table
+2023-03-11/23:10:19		Attempting to connect with mysql
+2023-03-11/23:10:19		Connection successful
+2023-03-11/23:10:19		Exporting data into csv file
+2023-03-11/23:10:22		Attempting to connect with mysql
+2023-03-11/23:10:22		Connection successful
+2023-03-11/23:10:22		Creating database in mysql
+2023-03-11/23:10:22		Created database in mysql
+2023-03-11/23:10:22		Attempting to connect with mysql
+2023-03-11/23:10:22		Connection successful
+2023-03-11/23:10:22		Create table method initialised
+2023-03-11/23:10:22		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:12:28		Attempting to connect with mysql
+2023-03-11/23:12:28		Connection successful
+2023-03-11/23:12:28		Creating database in mysql
+2023-03-11/23:12:28		Created database in mysql
+2023-03-11/23:12:28		Attempting to connect with mysql
+2023-03-11/23:12:28		Connection successful
+2023-03-11/23:12:28		Create table method initialised
+2023-03-11/23:12:28		Attempting to connect with mysql
+2023-03-11/23:12:28		Connection successful
+2023-03-11/23:12:28		Inserting data into sql table method initialised
+2023-03-11/23:12:30		Data inserted into table
+2023-03-11/23:12:30		Attempting to connect with mysql
+2023-03-11/23:12:30		Connection successful
+2023-03-11/23:12:30		Exporting data into csv file
+2023-03-11/23:12:32		Attempting to connect with mysql
+2023-03-11/23:12:32		Connection successful
+2023-03-11/23:12:32		Creating database in mysql
+2023-03-11/23:12:32		Created database in mysql
+2023-03-11/23:12:32		Attempting to connect with mysql
+2023-03-11/23:12:32		Connection successful
+2023-03-11/23:12:32		Create table method initialised
+2023-03-11/23:12:32		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:14:00		Attempting to connect with mysql
+2023-03-11/23:14:00		Connection successful
+2023-03-11/23:14:00		Creating database in mysql
+2023-03-11/23:14:00		Created database in mysql
+2023-03-11/23:14:00		Attempting to connect with mysql
+2023-03-11/23:14:00		Connection successful
+2023-03-11/23:14:00		Create table method initialised
+2023-03-11/23:14:00		Attempting to connect with mysql
+2023-03-11/23:14:00		Connection successful
+2023-03-11/23:14:00		Inserting data into sql table method initialised
+2023-03-11/23:14:02		Data inserted into table
+2023-03-11/23:14:02		Attempting to connect with mysql
+2023-03-11/23:14:02		Connection successful
+2023-03-11/23:14:02		Exporting data into csv file
+2023-03-11/23:14:05		Attempting to connect with mysql
+2023-03-11/23:14:05		Connection successful
+2023-03-11/23:14:05		Creating database in mysql
+2023-03-11/23:14:05		Created database in mysql
+2023-03-11/23:14:05		Attempting to connect with mysql
+2023-03-11/23:14:05		Connection successful
+2023-03-11/23:14:05		Create table method initialised
+2023-03-11/23:14:05		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:15:04		Attempting to connect with mysql
+2023-03-11/23:15:04		Connection successful
+2023-03-11/23:15:04		Creating database in mysql
+2023-03-11/23:15:04		Created database in mysql
+2023-03-11/23:15:04		Attempting to connect with mysql
+2023-03-11/23:15:04		Connection successful
+2023-03-11/23:15:04		Create table method initialised
+2023-03-11/23:15:04		Attempting to connect with mysql
+2023-03-11/23:15:04		Connection successful
+2023-03-11/23:15:04		Inserting data into sql table method initialised
+2023-03-11/23:15:06		Data inserted into table
+2023-03-11/23:15:06		Attempting to connect with mysql
+2023-03-11/23:15:06		Connection successful
+2023-03-11/23:15:06		Exporting data into csv file
+2023-03-11/23:15:08		Attempting to connect with mysql
+2023-03-11/23:15:08		Connection successful
+2023-03-11/23:15:08		Creating database in mysql
+2023-03-11/23:15:08		Created database in mysql
+2023-03-11/23:15:08		Attempting to connect with mysql
+2023-03-11/23:15:08		Connection successful
+2023-03-11/23:15:08		Create table method initialised
+2023-03-11/23:15:08		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:16:37		Attempting to connect with mysql
+2023-03-11/23:16:38		Connection successful
+2023-03-11/23:16:37		Creating database in mysql
+2023-03-11/23:16:38		Created database in mysql
+2023-03-11/23:16:38		Attempting to connect with mysql
+2023-03-11/23:16:38		Connection successful
+2023-03-11/23:16:38		Create table method initialised
+2023-03-11/23:16:38		Attempting to connect with mysql
+2023-03-11/23:16:38		Connection successful
+2023-03-11/23:16:38		Inserting data into sql table method initialised
+2023-03-11/23:16:40		Data inserted into table
+2023-03-11/23:16:40		Attempting to connect with mysql
+2023-03-11/23:16:40		Connection successful
+2023-03-11/23:16:40		Exporting data into csv file
+2023-03-11/23:16:42		Attempting to connect with mysql
+2023-03-11/23:16:42		Connection successful
+2023-03-11/23:16:42		Creating database in mysql
+2023-03-11/23:16:42		Created database in mysql
+2023-03-11/23:16:42		Attempting to connect with mysql
+2023-03-11/23:16:43		Connection successful
+2023-03-11/23:16:42		Create table method initialised
+2023-03-11/23:16:43		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:54:21		Attempting to connect with mysql
+2023-03-11/23:54:21		Connection successful
+2023-03-11/23:54:21		Creating database in mysql
+2023-03-11/23:54:21		Created database in mysql
+2023-03-11/23:54:21		Attempting to connect with mysql
+2023-03-11/23:54:21		Connection successful
+2023-03-11/23:54:21		Create table method initialised
+2023-03-11/23:54:22		Attempting to connect with mysql
+2023-03-11/23:54:22		Connection successful
+2023-03-11/23:54:22		Inserting data into sql table method initialised
+2023-03-11/23:54:24		Data inserted into table
+2023-03-11/23:54:24		Attempting to connect with mysql
+2023-03-11/23:54:24		Connection successful
+2023-03-11/23:54:24		Exporting data into csv file
+2023-03-11/23:54:27		Attempting to connect with mysql
+2023-03-11/23:54:27		Connection successful
+2023-03-11/23:54:27		Creating database in mysql
+2023-03-11/23:54:28		Created database in mysql
+2023-03-11/23:54:28		Attempting to connect with mysql
+2023-03-11/23:54:28		Connection successful
+2023-03-11/23:54:28		Create table method initialised
+2023-03-11/23:54:28		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:58:45		Attempting to connect with mysql
+2023-03-11/23:58:45		Connection successful
+2023-03-11/23:58:45		Creating database in mysql
+2023-03-11/23:58:45		Created database in mysql
+2023-03-11/23:58:45		Attempting to connect with mysql
+2023-03-11/23:58:45		Connection successful
+2023-03-11/23:58:45		Create table method initialised
+2023-03-11/23:58:45		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-11/23:59:10		Attempting to connect with mysql
+2023-03-11/23:59:10		Connection successful
+2023-03-11/23:59:10		Creating database in mysql
+2023-03-11/23:59:10		Created database in mysql
+2023-03-11/23:59:10		Attempting to connect with mysql
+2023-03-11/23:59:10		Connection successful
+2023-03-11/23:59:10		Create table method initialised
+2023-03-11/23:59:10		Attempting to connect with mysql
+2023-03-11/23:59:10		Connection successful
+2023-03-11/23:59:10		Inserting data into sql table method initialised
+2023-03-11/23:59:12		Data inserted into table
+2023-03-11/23:59:12		Attempting to connect with mysql
+2023-03-11/23:59:12		Connection successful
+2023-03-11/23:59:12		Exporting data into csv file
+2023-03-11/23:59:16		Attempting to connect with mysql
+2023-03-11/23:59:16		Connection successful
+2023-03-11/23:59:16		Creating database in mysql
+2023-03-11/23:59:16		Created database in mysql
+2023-03-11/23:59:16		Attempting to connect with mysql
+2023-03-11/23:59:16		Connection successful
+2023-03-11/23:59:16		Create table method initialised
+2023-03-11/23:59:16		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:00:03		Attempting to connect with mysql
+2023-03-12/00:00:03		Connection successful
+2023-03-12/00:00:03		Creating database in mysql
+2023-03-12/00:00:03		Created database in mysql
+2023-03-12/00:00:03		Attempting to connect with mysql
+2023-03-12/00:00:03		Connection successful
+2023-03-12/00:00:03		Create table method initialised
+2023-03-12/00:00:03		Attempting to connect with mysql
+2023-03-12/00:00:03		Connection successful
+2023-03-12/00:00:03		Inserting data into sql table method initialised
+2023-03-12/00:00:05		Data inserted into table
+2023-03-12/00:00:05		Attempting to connect with mysql
+2023-03-12/00:00:05		Connection successful
+2023-03-12/00:00:05		Exporting data into csv file
+2023-03-12/00:00:08		Attempting to connect with mysql
+2023-03-12/00:00:08		Connection successful
+2023-03-12/00:00:08		Creating database in mysql
+2023-03-12/00:00:08		Created database in mysql
+2023-03-12/00:00:08		Attempting to connect with mysql
+2023-03-12/00:00:08		Connection successful
+2023-03-12/00:00:08		Create table method initialised
+2023-03-12/00:00:08		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:02:25		Attempting to connect with mysql
+2023-03-12/00:02:25		Connection successful
+2023-03-12/00:02:25		Creating database in mysql
+2023-03-12/00:02:25		Created database in mysql
+2023-03-12/00:02:25		Attempting to connect with mysql
+2023-03-12/00:02:25		Connection successful
+2023-03-12/00:02:25		Create table method initialised
+2023-03-12/00:02:25		Attempting to connect with mysql
+2023-03-12/00:02:25		Connection successful
+2023-03-12/00:02:25		Inserting data into sql table method initialised
+2023-03-12/00:02:27		Data inserted into table
+2023-03-12/00:02:27		Attempting to connect with mysql
+2023-03-12/00:02:27		Connection successful
+2023-03-12/00:02:27		Exporting data into csv file
+2023-03-12/00:02:30		Attempting to connect with mysql
+2023-03-12/00:02:30		Connection successful
+2023-03-12/00:02:30		Creating database in mysql
+2023-03-12/00:02:30		Created database in mysql
+2023-03-12/00:02:30		Attempting to connect with mysql
+2023-03-12/00:02:30		Connection successful
+2023-03-12/00:02:30		Create table method initialised
+2023-03-12/00:02:30		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:03:15		Attempting to connect with mysql
+2023-03-12/00:03:15		Connection successful
+2023-03-12/00:03:15		Creating database in mysql
+2023-03-12/00:03:15		Created database in mysql
+2023-03-12/00:03:15		Attempting to connect with mysql
+2023-03-12/00:03:15		Connection successful
+2023-03-12/00:03:15		Create table method initialised
+2023-03-12/00:03:15		Attempting to connect with mysql
+2023-03-12/00:03:15		Connection successful
+2023-03-12/00:03:15		Inserting data into sql table method initialised
+2023-03-12/00:03:18		Data inserted into table
+2023-03-12/00:03:18		Attempting to connect with mysql
+2023-03-12/00:03:18		Connection successful
+2023-03-12/00:03:18		Exporting data into csv file
+2023-03-12/00:03:21		Attempting to connect with mysql
+2023-03-12/00:03:21		Connection successful
+2023-03-12/00:03:21		Creating database in mysql
+2023-03-12/00:03:21		Created database in mysql
+2023-03-12/00:03:21		Attempting to connect with mysql
+2023-03-12/00:03:21		Connection successful
+2023-03-12/00:03:21		Create table method initialised
+2023-03-12/00:03:21		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:12:37		Attempting to connect with mysql
+2023-03-12/00:12:37		Connection successful
+2023-03-12/00:12:37		Creating database in mysql
+2023-03-12/00:12:37		Created database in mysql
+2023-03-12/00:12:37		Attempting to connect with mysql
+2023-03-12/00:12:37		Connection successful
+2023-03-12/00:12:37		Create table method initialised
+2023-03-12/00:12:37		Attempting to connect with mysql
+2023-03-12/00:12:37		Connection successful
+2023-03-12/00:12:37		Inserting data into sql table method initialised
+2023-03-12/00:12:39		Data inserted into table
+2023-03-12/00:12:39		Attempting to connect with mysql
+2023-03-12/00:12:39		Connection successful
+2023-03-12/00:12:39		Exporting data into csv file
+2023-03-12/00:12:42		Attempting to connect with mysql
+2023-03-12/00:12:42		Connection successful
+2023-03-12/00:12:42		Creating database in mysql
+2023-03-12/00:12:42		Created database in mysql
+2023-03-12/00:12:42		Attempting to connect with mysql
+2023-03-12/00:12:42		Connection successful
+2023-03-12/00:12:42		Create table method initialised
+2023-03-12/00:12:42		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:16:41		Attempting to connect with mysql
+2023-03-12/00:16:41		Connection successful
+2023-03-12/00:16:41		Creating database in mysql
+2023-03-12/00:16:42		Created database in mysql
+2023-03-12/00:16:42		Attempting to connect with mysql
+2023-03-12/00:16:42		Connection successful
+2023-03-12/00:16:42		Create table method initialised
+2023-03-12/00:16:42		Attempting to connect with mysql
+2023-03-12/00:16:42		Connection successful
+2023-03-12/00:16:42		Inserting data into sql table method initialised
+2023-03-12/00:16:44		Data inserted into table
+2023-03-12/00:16:44		Attempting to connect with mysql
+2023-03-12/00:16:44		Connection successful
+2023-03-12/00:16:44		Exporting data into csv file
+2023-03-12/00:21:25		Attempting to connect with mysql
+2023-03-12/00:21:25		Connection successful
+2023-03-12/00:21:25		Creating database in mysql
+2023-03-12/00:21:25		Created database in mysql
+2023-03-12/00:21:25		Attempting to connect with mysql
+2023-03-12/00:21:25		Connection successful
+2023-03-12/00:21:25		Create table method initialised
+2023-03-12/00:21:26		Attempting to connect with mysql
+2023-03-12/00:21:26		Connection successful
+2023-03-12/00:21:26		Inserting data into sql table method initialised
+2023-03-12/00:21:27		Data inserted into table
+2023-03-12/00:21:27		Attempting to connect with mysql
+2023-03-12/00:21:28		Connection successful
+2023-03-12/00:21:27		Exporting data into csv file
+2023-03-12/00:21:30		Attempting to connect with mysql
+2023-03-12/00:21:30		Connection successful
+2023-03-12/00:21:30		Creating database in mysql
+2023-03-12/00:21:30		Created database in mysql
+2023-03-12/00:21:30		Attempting to connect with mysql
+2023-03-12/00:21:30		Connection successful
+2023-03-12/00:21:30		Create table method initialised
+2023-03-12/00:21:30		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:24:13		Attempting to connect with mysql
+2023-03-12/00:24:13		Connection successful
+2023-03-12/00:24:13		Creating database in mysql
+2023-03-12/00:24:14		Created database in mysql
+2023-03-12/00:24:14		Attempting to connect with mysql
+2023-03-12/00:24:14		Connection successful
+2023-03-12/00:24:14		Create table method initialised
+2023-03-12/00:24:14		Attempting to connect with mysql
+2023-03-12/00:24:14		Connection successful
+2023-03-12/00:24:14		Inserting data into sql table method initialised
+2023-03-12/00:24:16		Data inserted into table
+2023-03-12/00:24:16		Attempting to connect with mysql
+2023-03-12/00:24:16		Connection successful
+2023-03-12/00:24:16		Exporting data into csv file
+2023-03-12/00:24:18		Attempting to connect with mysql
+2023-03-12/00:24:18		Connection successful
+2023-03-12/00:24:18		Creating database in mysql
+2023-03-12/00:24:18		Created database in mysql
+2023-03-12/00:24:18		Attempting to connect with mysql
+2023-03-12/00:24:18		Connection successful
+2023-03-12/00:24:18		Create table method initialised
+2023-03-12/00:24:18		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/00:24:49		Attempting to connect with mysql
+2023-03-12/00:24:49		Connection successful
+2023-03-12/00:24:49		Creating database in mysql
+2023-03-12/00:24:49		Created database in mysql
+2023-03-12/00:24:49		Attempting to connect with mysql
+2023-03-12/00:24:49		Connection successful
+2023-03-12/00:24:49		Create table method initialised
+2023-03-12/00:24:49		Attempting to connect with mysql
+2023-03-12/00:24:49		Connection successful
+2023-03-12/00:24:49		Inserting data into sql table method initialised
+2023-03-12/00:24:51		Data inserted into table
+2023-03-12/00:24:51		Attempting to connect with mysql
+2023-03-12/00:24:51		Connection successful
+2023-03-12/00:24:51		Exporting data into csv file
+2023-03-12/00:24:54		Attempting to connect with mysql
+2023-03-12/00:24:54		Connection successful
+2023-03-12/00:24:54		Creating database in mysql
+2023-03-12/00:24:54		Created database in mysql
+2023-03-12/00:24:54		Attempting to connect with mysql
+2023-03-12/00:24:54		Connection successful
+2023-03-12/00:24:54		Create table method initialised
+2023-03-12/00:24:54		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:43:09		Attempting to connect with mysql
+2023-03-12/09:43:09		Connection successful
+2023-03-12/09:43:09		Creating database in mysql
+2023-03-12/09:43:09		Created database in mysql
+2023-03-12/09:43:09		Attempting to connect with mysql
+2023-03-12/09:43:09		Connection successful
+2023-03-12/09:43:09		Create table method initialised
+2023-03-12/09:43:09		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:43:51		Attempting to connect with mysql
+2023-03-12/09:43:51		Connection successful
+2023-03-12/09:43:51		Creating database in mysql
+2023-03-12/09:43:51		Created database in mysql
+2023-03-12/09:43:51		Attempting to connect with mysql
+2023-03-12/09:43:51		Connection successful
+2023-03-12/09:43:51		Create table method initialised
+2023-03-12/09:43:52		Attempting to connect with mysql
+2023-03-12/09:43:52		Connection successful
+2023-03-12/09:43:52		Inserting data into sql table method initialised
+2023-03-12/09:43:53		Data inserted into table
+2023-03-12/09:43:53		Attempting to connect with mysql
+2023-03-12/09:43:53		Connection successful
+2023-03-12/09:43:53		Exporting data into csv file
+2023-03-12/09:43:56		Attempting to connect with mysql
+2023-03-12/09:43:56		Connection successful
+2023-03-12/09:43:56		Creating database in mysql
+2023-03-12/09:43:56		Created database in mysql
+2023-03-12/09:43:56		Attempting to connect with mysql
+2023-03-12/09:43:56		Connection successful
+2023-03-12/09:43:56		Create table method initialised
+2023-03-12/09:43:56		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:47:11		Attempting to connect with mysql
+2023-03-12/09:47:11		Connection successful
+2023-03-12/09:47:11		Creating database in mysql
+2023-03-12/09:47:11		Created database in mysql
+2023-03-12/09:47:11		Attempting to connect with mysql
+2023-03-12/09:47:11		Connection successful
+2023-03-12/09:47:11		Create table method initialised
+2023-03-12/09:47:11		Attempting to connect with mysql
+2023-03-12/09:47:11		Connection successful
+2023-03-12/09:47:11		Inserting data into sql table method initialised
+2023-03-12/09:47:13		Data inserted into table
+2023-03-12/09:47:13		Attempting to connect with mysql
+2023-03-12/09:47:13		Connection successful
+2023-03-12/09:47:13		Exporting data into csv file
+2023-03-12/09:47:16		Attempting to connect with mysql
+2023-03-12/09:47:16		Connection successful
+2023-03-12/09:47:16		Creating database in mysql
+2023-03-12/09:47:16		Created database in mysql
+2023-03-12/09:47:16		Attempting to connect with mysql
+2023-03-12/09:47:16		Connection successful
+2023-03-12/09:47:16		Create table method initialised
+2023-03-12/09:47:16		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:48:38		Attempting to connect with mysql
+2023-03-12/09:48:38		Connection successful
+2023-03-12/09:48:38		Creating database in mysql
+2023-03-12/09:48:38		Created database in mysql
+2023-03-12/09:48:38		Attempting to connect with mysql
+2023-03-12/09:48:38		Connection successful
+2023-03-12/09:48:38		Create table method initialised
+2023-03-12/09:48:38		Attempting to connect with mysql
+2023-03-12/09:48:38		Connection successful
+2023-03-12/09:48:38		Inserting data into sql table method initialised
+2023-03-12/09:48:40		Data inserted into table
+2023-03-12/09:48:40		Attempting to connect with mysql
+2023-03-12/09:48:40		Connection successful
+2023-03-12/09:48:40		Exporting data into csv file
+2023-03-12/09:48:42		Attempting to connect with mysql
+2023-03-12/09:48:42		Connection successful
+2023-03-12/09:48:42		Creating database in mysql
+2023-03-12/09:48:42		Created database in mysql
+2023-03-12/09:48:42		Attempting to connect with mysql
+2023-03-12/09:48:42		Connection successful
+2023-03-12/09:48:42		Create table method initialised
+2023-03-12/09:48:42		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:58:56		Attempting to connect with mysql
+2023-03-12/09:58:56		Connection successful
+2023-03-12/09:58:56		Creating database in mysql
+2023-03-12/09:58:56		Created database in mysql
+2023-03-12/09:58:56		Attempting to connect with mysql
+2023-03-12/09:58:56		Connection successful
+2023-03-12/09:58:56		Create table method initialised
+2023-03-12/09:58:56		Attempting to connect with mysql
+2023-03-12/09:58:56		Connection successful
+2023-03-12/09:58:56		Inserting data into sql table method initialised
+2023-03-12/09:58:58		Data inserted into table
+2023-03-12/09:58:58		Attempting to connect with mysql
+2023-03-12/09:58:58		Connection successful
+2023-03-12/09:58:58		Exporting data into csv file
+2023-03-12/09:59:01		Attempting to connect with mysql
+2023-03-12/09:59:01		Connection successful
+2023-03-12/09:59:01		Creating database in mysql
+2023-03-12/09:59:01		Created database in mysql
+2023-03-12/09:59:01		Attempting to connect with mysql
+2023-03-12/09:59:01		Connection successful
+2023-03-12/09:59:01		Create table method initialised
+2023-03-12/09:59:01		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/09:59:43		Attempting to connect with mysql
+2023-03-12/09:59:43		Connection successful
+2023-03-12/09:59:43		Creating database in mysql
+2023-03-12/09:59:43		Created database in mysql
+2023-03-12/09:59:43		Attempting to connect with mysql
+2023-03-12/09:59:43		Connection successful
+2023-03-12/09:59:43		Create table method initialised
+2023-03-12/09:59:43		Attempting to connect with mysql
+2023-03-12/09:59:43		Connection successful
+2023-03-12/09:59:43		Inserting data into sql table method initialised
+2023-03-12/09:59:45		Data inserted into table
+2023-03-12/09:59:45		Attempting to connect with mysql
+2023-03-12/09:59:45		Connection successful
+2023-03-12/09:59:45		Exporting data into csv file
+2023-03-12/09:59:47		Attempting to connect with mysql
+2023-03-12/09:59:47		Connection successful
+2023-03-12/09:59:47		Creating database in mysql
+2023-03-12/09:59:48		Created database in mysql
+2023-03-12/09:59:48		Attempting to connect with mysql
+2023-03-12/09:59:48		Connection successful
+2023-03-12/09:59:48		Create table method initialised
+2023-03-12/09:59:48		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:19:21		Attempting to connect with mysql
+2023-03-12/13:19:21		Connection successful
+2023-03-12/13:19:21		Creating database in mysql
+2023-03-12/13:19:21		Created database in mysql
+2023-03-12/13:19:21		Attempting to connect with mysql
+2023-03-12/13:19:21		Connection successful
+2023-03-12/13:19:21		Create table method initialised
+2023-03-12/13:19:21		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:19:51		Attempting to connect with mysql
+2023-03-12/13:19:51		Connection successful
+2023-03-12/13:19:51		Creating database in mysql
+2023-03-12/13:19:51		Created database in mysql
+2023-03-12/13:19:51		Attempting to connect with mysql
+2023-03-12/13:19:51		Connection successful
+2023-03-12/13:19:51		Create table method initialised
+2023-03-12/13:19:51		Attempting to connect with mysql
+2023-03-12/13:19:51		Connection successful
+2023-03-12/13:19:51		Inserting data into sql table method initialised
+2023-03-12/13:19:53		Data inserted into table
+2023-03-12/13:19:53		Attempting to connect with mysql
+2023-03-12/13:19:53		Connection successful
+2023-03-12/13:19:53		Exporting data into csv file
+2023-03-12/13:19:56		Attempting to connect with mysql
+2023-03-12/13:19:56		Connection successful
+2023-03-12/13:19:56		Creating database in mysql
+2023-03-12/13:19:56		Created database in mysql
+2023-03-12/13:19:56		Attempting to connect with mysql
+2023-03-12/13:19:56		Connection successful
+2023-03-12/13:19:56		Create table method initialised
+2023-03-12/13:19:56		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:43:25		Attempting to connect with mysql
+2023-03-12/13:43:25		Connection successful
+2023-03-12/13:43:25		Creating database in mysql
+2023-03-12/13:43:25		Created database in mysql
+2023-03-12/13:43:25		Attempting to connect with mysql
+2023-03-12/13:43:25		Connection successful
+2023-03-12/13:43:25		Create table method initialised
+2023-03-12/13:43:25		Attempting to connect with mysql
+2023-03-12/13:43:25		Connection successful
+2023-03-12/13:43:25		Inserting data into sql table method initialised
+2023-03-12/13:43:27		Data inserted into table
+2023-03-12/13:43:27		Attempting to connect with mysql
+2023-03-12/13:43:27		Connection successful
+2023-03-12/13:43:27		Exporting data into csv file
+2023-03-12/13:45:33		Attempting to connect with mysql
+2023-03-12/13:45:33		Connection successful
+2023-03-12/13:45:33		Creating database in mysql
+2023-03-12/13:45:33		Created database in mysql
+2023-03-12/13:45:33		Attempting to connect with mysql
+2023-03-12/13:45:33		Connection successful
+2023-03-12/13:45:33		Create table method initialised
+2023-03-12/13:45:34		Attempting to connect with mysql
+2023-03-12/13:45:34		Connection successful
+2023-03-12/13:45:34		Inserting data into sql table method initialised
+2023-03-12/13:45:35		Data inserted into table
+2023-03-12/13:45:35		Attempting to connect with mysql
+2023-03-12/13:45:35		Connection successful
+2023-03-12/13:45:35		Exporting data into csv file
+2023-03-12/13:47:04		Attempting to connect with mysql
+2023-03-12/13:47:04		Connection successful
+2023-03-12/13:47:04		Creating database in mysql
+2023-03-12/13:47:04		Created database in mysql
+2023-03-12/13:47:04		Attempting to connect with mysql
+2023-03-12/13:47:04		Connection successful
+2023-03-12/13:47:04		Create table method initialised
+2023-03-12/13:47:04		Attempting to connect with mysql
+2023-03-12/13:47:04		Connection successful
+2023-03-12/13:47:04		Inserting data into sql table method initialised
+2023-03-12/13:47:06		Data inserted into table
+2023-03-12/13:47:06		Attempting to connect with mysql
+2023-03-12/13:47:06		Connection successful
+2023-03-12/13:47:06		Exporting data into csv file
+2023-03-12/13:47:08		Attempting to connect with mysql
+2023-03-12/13:47:08		Connection successful
+2023-03-12/13:47:08		Creating database in mysql
+2023-03-12/13:47:08		Created database in mysql
+2023-03-12/13:47:08		Attempting to connect with mysql
+2023-03-12/13:47:08		Connection successful
+2023-03-12/13:47:08		Create table method initialised
+2023-03-12/13:47:08		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:54:12		Attempting to connect with mysql
+2023-03-12/13:54:12		Connection successful
+2023-03-12/13:54:12		Creating database in mysql
+2023-03-12/13:54:12		Created database in mysql
+2023-03-12/13:54:12		Attempting to connect with mysql
+2023-03-12/13:54:12		Connection successful
+2023-03-12/13:54:12		Create table method initialised
+2023-03-12/13:54:12		Attempting to connect with mysql
+2023-03-12/13:54:12		Connection successful
+2023-03-12/13:54:12		Inserting data into sql table method initialised
+2023-03-12/13:54:14		Data inserted into table
+2023-03-12/13:54:14		Attempting to connect with mysql
+2023-03-12/13:54:14		Connection successful
+2023-03-12/13:54:14		Exporting data into csv file
+2023-03-12/13:54:17		Attempting to connect with mysql
+2023-03-12/13:54:17		Connection successful
+2023-03-12/13:54:17		Creating database in mysql
+2023-03-12/13:54:17		Created database in mysql
+2023-03-12/13:54:17		Attempting to connect with mysql
+2023-03-12/13:54:17		Connection successful
+2023-03-12/13:54:17		Create table method initialised
+2023-03-12/13:54:17		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:55:48		Attempting to connect with mysql
+2023-03-12/13:55:48		Connection successful
+2023-03-12/13:55:48		Creating database in mysql
+2023-03-12/13:55:48		Created database in mysql
+2023-03-12/13:55:48		Attempting to connect with mysql
+2023-03-12/13:55:48		Connection successful
+2023-03-12/13:55:48		Create table method initialised
+2023-03-12/13:55:48		Attempting to connect with mysql
+2023-03-12/13:55:48		Connection successful
+2023-03-12/13:55:48		Inserting data into sql table method initialised
+2023-03-12/13:55:50		Data inserted into table
+2023-03-12/13:55:50		Attempting to connect with mysql
+2023-03-12/13:55:50		Connection successful
+2023-03-12/13:55:50		Exporting data into csv file
+2023-03-12/13:57:37		Attempting to connect with mysql
+2023-03-12/13:57:37		Connection successful
+2023-03-12/13:57:37		Creating database in mysql
+2023-03-12/13:57:37		Created database in mysql
+2023-03-12/13:57:37		Attempting to connect with mysql
+2023-03-12/13:57:37		Connection successful
+2023-03-12/13:57:37		Create table method initialised
+2023-03-12/13:57:37		Attempting to connect with mysql
+2023-03-12/13:57:37		Connection successful
+2023-03-12/13:57:37		Inserting data into sql table method initialised
+2023-03-12/13:57:39		Data inserted into table
+2023-03-12/13:57:39		Attempting to connect with mysql
+2023-03-12/13:57:39		Connection successful
+2023-03-12/13:57:39		Exporting data into csv file
+2023-03-12/13:57:41		Attempting to connect with mysql
+2023-03-12/13:57:41		Connection successful
+2023-03-12/13:57:41		Creating database in mysql
+2023-03-12/13:57:42		Created database in mysql
+2023-03-12/13:57:42		Attempting to connect with mysql
+2023-03-12/13:57:42		Connection successful
+2023-03-12/13:57:42		Create table method initialised
+2023-03-12/13:57:42		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/13:58:37		Attempting to connect with mysql
+2023-03-12/13:58:37		Connection successful
+2023-03-12/13:58:37		Creating database in mysql
+2023-03-12/13:58:37		Created database in mysql
+2023-03-12/13:58:37		Attempting to connect with mysql
+2023-03-12/13:58:37		Connection successful
+2023-03-12/13:58:37		Create table method initialised
+2023-03-12/13:58:38		Attempting to connect with mysql
+2023-03-12/13:58:38		Connection successful
+2023-03-12/13:58:38		Inserting data into sql table method initialised
+2023-03-12/13:58:40		Data inserted into table
+2023-03-12/13:58:40		Attempting to connect with mysql
+2023-03-12/13:58:40		Connection successful
+2023-03-12/13:58:40		Exporting data into csv file
+2023-03-12/13:58:42		Attempting to connect with mysql
+2023-03-12/13:58:42		Connection successful
+2023-03-12/13:58:42		Creating database in mysql
+2023-03-12/13:58:42		Created database in mysql
+2023-03-12/13:58:42		Attempting to connect with mysql
+2023-03-12/13:58:42		Connection successful
+2023-03-12/13:58:42		Create table method initialised
+2023-03-12/13:58:42		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/14:00:16		Attempting to connect with mysql
+2023-03-12/14:00:16		Connection successful
+2023-03-12/14:00:16		Creating database in mysql
+2023-03-12/14:00:16		Created database in mysql
+2023-03-12/14:00:17		Attempting to connect with mysql
+2023-03-12/14:00:17		Connection successful
+2023-03-12/14:00:17		Create table method initialised
+2023-03-12/14:00:17		Attempting to connect with mysql
+2023-03-12/14:00:17		Connection successful
+2023-03-12/14:00:17		Inserting data into sql table method initialised
+2023-03-12/14:00:18		Data inserted into table
+2023-03-12/14:00:18		Attempting to connect with mysql
+2023-03-12/14:00:19		Connection successful
+2023-03-12/14:00:18		Exporting data into csv file
+2023-03-12/14:01:59		Attempting to connect with mysql
+2023-03-12/14:01:59		Connection successful
+2023-03-12/14:01:59		Creating database in mysql
+2023-03-12/14:01:59		Created database in mysql
+2023-03-12/14:01:59		Attempting to connect with mysql
+2023-03-12/14:01:59		Connection successful
+2023-03-12/14:01:59		Create table method initialised
+2023-03-12/14:01:59		Attempting to connect with mysql
+2023-03-12/14:01:59		Connection successful
+2023-03-12/14:01:59		Inserting data into sql table method initialised
+2023-03-12/14:02:01		Data inserted into table
+2023-03-12/14:02:01		Attempting to connect with mysql
+2023-03-12/14:02:01		Connection successful
+2023-03-12/14:02:01		Exporting data into csv file
+2023-03-12/14:02:49		Attempting to connect with mysql
+2023-03-12/14:02:49		Connection successful
+2023-03-12/14:02:49		Creating database in mysql
+2023-03-12/14:02:49		Created database in mysql
+2023-03-12/14:02:49		Attempting to connect with mysql
+2023-03-12/14:02:49		Connection successful
+2023-03-12/14:02:49		Create table method initialised
+2023-03-12/14:02:49		Attempting to connect with mysql
+2023-03-12/14:02:49		Connection successful
+2023-03-12/14:02:49		Inserting data into sql table method initialised
+2023-03-12/14:02:51		Data inserted into table
+2023-03-12/14:02:51		Attempting to connect with mysql
+2023-03-12/14:02:51		Connection successful
+2023-03-12/14:02:51		Exporting data into csv file
+2023-03-12/14:02:54		Attempting to connect with mysql
+2023-03-12/14:02:54		Connection successful
+2023-03-12/14:02:54		Creating database in mysql
+2023-03-12/14:02:54		Created database in mysql
+2023-03-12/14:02:54		Attempting to connect with mysql
+2023-03-12/14:02:54		Connection successful
+2023-03-12/14:02:54		Create table method initialised
+2023-03-12/14:02:54		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/14:08:11		Attempting to connect with mysql
+2023-03-12/14:08:11		Connection successful
+2023-03-12/14:08:11		Creating database in mysql
+2023-03-12/14:08:11		Created database in mysql
+2023-03-12/14:08:11		Attempting to connect with mysql
+2023-03-12/14:08:11		Connection successful
+2023-03-12/14:08:11		Create table method initialised
+2023-03-12/14:08:11		Attempting to connect with mysql
+2023-03-12/14:08:11		Connection successful
+2023-03-12/14:08:11		Inserting data into sql table method initialised
+2023-03-12/14:08:13		Data inserted into table
+2023-03-12/14:08:13		Attempting to connect with mysql
+2023-03-12/14:08:13		Connection successful
+2023-03-12/14:08:13		Exporting data into csv file
+2023-03-12/14:08:16		Attempting to connect with mysql
+2023-03-12/14:08:16		Connection successful
+2023-03-12/14:08:16		Creating database in mysql
+2023-03-12/14:08:16		Created database in mysql
+2023-03-12/14:08:16		Attempting to connect with mysql
+2023-03-12/14:08:16		Connection successful
+2023-03-12/14:08:16		Create table method initialised
+2023-03-12/14:08:16		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/14:10:56		Attempting to connect with mysql
+2023-03-12/14:10:56		Connection successful
+2023-03-12/14:10:56		Creating database in mysql
+2023-03-12/14:10:56		Created database in mysql
+2023-03-12/14:10:56		Attempting to connect with mysql
+2023-03-12/14:10:56		Connection successful
+2023-03-12/14:10:56		Create table method initialised
+2023-03-12/14:10:56		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/14:11:20		Attempting to connect with mysql
+2023-03-12/14:11:20		Connection successful
+2023-03-12/14:11:20		Creating database in mysql
+2023-03-12/14:11:20		Created database in mysql
+2023-03-12/14:11:20		Attempting to connect with mysql
+2023-03-12/14:11:20		Connection successful
+2023-03-12/14:11:20		Create table method initialised
+2023-03-12/14:11:20		Attempting to connect with mysql
+2023-03-12/14:11:20		Connection successful
+2023-03-12/14:11:20		Inserting data into sql table method initialised
+2023-03-12/14:11:22		Data inserted into table
+2023-03-12/14:11:22		Attempting to connect with mysql
+2023-03-12/14:11:22		Connection successful
+2023-03-12/14:11:22		Exporting data into csv file
+2023-03-12/14:14:11		Attempting to connect with mysql
+2023-03-12/14:14:11		Connection successful
+2023-03-12/14:14:11		Creating database in mysql
+2023-03-12/14:14:11		Created database in mysql
+2023-03-12/14:14:11		Attempting to connect with mysql
+2023-03-12/14:14:11		Connection successful
+2023-03-12/14:14:11		Create table method initialised
+2023-03-12/14:14:11		Attempting to connect with mysql
+2023-03-12/14:14:11		Connection successful
+2023-03-12/14:14:11		Inserting data into sql table method initialised
+2023-03-12/14:14:13		Data inserted into table
+2023-03-12/14:14:13		Attempting to connect with mysql
+2023-03-12/14:14:13		Connection successful
+2023-03-12/14:14:13		Exporting data into csv file
+2023-03-12/14:21:11		Attempting to connect with mysql
+2023-03-12/14:21:11		Connection successful
+2023-03-12/14:21:11		Creating database in mysql
+2023-03-12/14:21:11		Created database in mysql
+2023-03-12/14:21:11		Attempting to connect with mysql
+2023-03-12/14:21:11		Connection successful
+2023-03-12/14:21:11		Create table method initialised
+2023-03-12/14:21:11		Attempting to connect with mysql
+2023-03-12/14:21:11		Connection successful
+2023-03-12/14:21:11		Inserting data into sql table method initialised
+2023-03-12/14:21:13		Data inserted into table
+2023-03-12/14:21:13		Attempting to connect with mysql
+2023-03-12/14:21:13		Connection successful
+2023-03-12/14:21:13		Exporting data into csv file
+2023-03-12/14:26:29		Attempting to connect with mysql
+2023-03-12/14:26:29		Connection successful
+2023-03-12/14:26:29		Creating database in mysql
+2023-03-12/14:26:29		Created database in mysql
+2023-03-12/14:26:29		Attempting to connect with mysql
+2023-03-12/14:26:29		Connection successful
+2023-03-12/14:26:29		Create table method initialised
+2023-03-12/14:26:29		Attempting to connect with mysql
+2023-03-12/14:26:29		Connection successful
+2023-03-12/14:26:29		Inserting data into sql table method initialised
+2023-03-12/14:26:31		Data inserted into table
+2023-03-12/14:26:31		Attempting to connect with mysql
+2023-03-12/14:26:31		Connection successful
+2023-03-12/14:26:31		Exporting data into csv file
+2023-03-12/14:37:34		Attempting to connect with mysql
+2023-03-12/14:37:34		Connection successful
+2023-03-12/14:37:34		Creating database in mysql
+2023-03-12/14:37:34		Created database in mysql
+2023-03-12/14:37:34		Attempting to connect with mysql
+2023-03-12/14:37:34		Connection successful
+2023-03-12/14:37:34		Create table method initialised
+2023-03-12/14:37:34		Attempting to connect with mysql
+2023-03-12/14:37:34		Connection successful
+2023-03-12/14:37:34		Inserting data into sql table method initialised
+2023-03-12/14:37:36		Data inserted into table
+2023-03-12/14:37:36		Attempting to connect with mysql
+2023-03-12/14:37:36		Connection successful
+2023-03-12/14:37:36		Exporting data into csv file
+2023-03-12/14:44:47		Attempting to connect with mysql
+2023-03-12/14:44:47		Connection successful
+2023-03-12/14:44:47		Creating database in mysql
+2023-03-12/14:44:47		Created database in mysql
+2023-03-12/14:44:47		Attempting to connect with mysql
+2023-03-12/14:44:47		Connection successful
+2023-03-12/14:44:47		Create table method initialised
+2023-03-12/14:44:47		Attempting to connect with mysql
+2023-03-12/14:44:47		Connection successful
+2023-03-12/14:44:47		Inserting data into sql table method initialised
+2023-03-12/14:44:49		Data inserted into table
+2023-03-12/14:44:49		Attempting to connect with mysql
+2023-03-12/14:44:49		Connection successful
+2023-03-12/14:44:49		Exporting data into csv file
+2023-03-12/14:59:08		Attempting to connect with mysql
+2023-03-12/14:59:08		Connection successful
+2023-03-12/14:59:08		Creating database in mysql
+2023-03-12/14:59:08		Created database in mysql
+2023-03-12/14:59:08		Attempting to connect with mysql
+2023-03-12/14:59:08		Connection successful
+2023-03-12/14:59:08		Create table method initialised
+2023-03-12/14:59:08		Attempting to connect with mysql
+2023-03-12/14:59:08		Connection successful
+2023-03-12/14:59:08		Inserting data into sql table method initialised
+2023-03-12/14:59:10		Data inserted into table
+2023-03-12/14:59:10		Attempting to connect with mysql
+2023-03-12/14:59:10		Connection successful
+2023-03-12/14:59:10		Exporting data into csv file
+2023-03-12/18:22:38		Attempting to connect with mysql
+2023-03-12/18:22:38		Connection successful
+2023-03-12/18:22:38		Creating database in mysql
+2023-03-12/18:22:38		Created database in mysql
+2023-03-12/18:22:38		Attempting to connect with mysql
+2023-03-12/18:22:38		Connection successful
+2023-03-12/18:22:38		Create table method initialised
+2023-03-12/18:22:38		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/18:23:21		Attempting to connect with mysql
+2023-03-12/18:23:21		Connection successful
+2023-03-12/18:23:21		Creating database in mysql
+2023-03-12/18:23:21		Created database in mysql
+2023-03-12/18:23:21		Attempting to connect with mysql
+2023-03-12/18:23:21		Connection successful
+2023-03-12/18:23:21		Create table method initialised
+2023-03-12/18:23:21		Attempting to connect with mysql
+2023-03-12/18:23:21		Connection successful
+2023-03-12/18:23:21		Inserting data into sql table method initialised
+2023-03-12/18:23:23		Data inserted into table
+2023-03-12/18:23:23		Attempting to connect with mysql
+2023-03-12/18:23:23		Connection successful
+2023-03-12/18:23:23		Exporting data into csv file
+2023-03-12/19:43:30		Attempting to connect with mysql
+2023-03-12/19:43:30		Connection successful
+2023-03-12/19:43:30		Creating database in mysql
+2023-03-12/19:43:30		Created database in mysql
+2023-03-12/19:43:30		Attempting to connect with mysql
+2023-03-12/19:43:30		Connection successful
+2023-03-12/19:43:30		Create table method initialised
+2023-03-12/19:43:30		Attempting to connect with mysql
+2023-03-12/19:43:30		Connection successful
+2023-03-12/19:43:30		Inserting data into sql table method initialised
+2023-03-12/19:43:32		Data inserted into table
+2023-03-12/19:43:32		Attempting to connect with mysql
+2023-03-12/19:43:32		Connection successful
+2023-03-12/19:43:32		Exporting data into csv file
+2023-03-12/20:19:23		Attempting to connect with mysql
+2023-03-12/20:19:23		Connection successful
+2023-03-12/20:19:23		Creating database in mysql
+2023-03-12/20:19:23		Created database in mysql
+2023-03-12/20:19:23		Attempting to connect with mysql
+2023-03-12/20:19:23		Connection successful
+2023-03-12/20:19:23		Create table method initialised
+2023-03-12/20:19:23		Attempting to connect with mysql
+2023-03-12/20:19:23		Connection successful
+2023-03-12/20:19:23		Inserting data into sql table method initialised
+2023-03-12/20:19:25		Data inserted into table
+2023-03-12/20:19:25		Attempting to connect with mysql
+2023-03-12/20:19:25		Connection successful
+2023-03-12/20:19:25		Exporting data into csv file
+2023-03-12/21:58:34		Attempting to connect with mysql
+2023-03-12/21:58:34		Connection successful
+2023-03-12/21:58:34		Creating database in mysql
+2023-03-12/21:58:34		Created database in mysql
+2023-03-12/21:58:34		Attempting to connect with mysql
+2023-03-12/21:58:34		Connection successful
+2023-03-12/21:58:34		Create table method initialised
+2023-03-12/21:58:34		Attempting to connect with mysql
+2023-03-12/21:58:34		Connection successful
+2023-03-12/21:58:34		Inserting data into sql table method initialised
+2023-03-12/21:58:36		Data inserted into table
+2023-03-12/21:58:36		Attempting to connect with mysql
+2023-03-12/21:58:36		Connection successful
+2023-03-12/21:58:36		Exporting data into csv file
+2023-03-12/22:37:16		Attempting to connect with mysql
+2023-03-12/22:37:16		Connection successful
+2023-03-12/22:37:16		Creating database in mysql
+2023-03-12/22:37:16		Created database in mysql
+2023-03-12/22:37:16		Attempting to connect with mysql
+2023-03-12/22:37:16		Connection successful
+2023-03-12/22:37:16		Create table method initialised
+2023-03-12/22:37:16		Attempting to connect with mysql
+2023-03-12/22:37:16		Connection successful
+2023-03-12/22:37:16		Inserting data into sql table method initialised
+2023-03-12/22:37:18		Data inserted into table
+2023-03-12/22:37:18		Attempting to connect with mysql
+2023-03-12/22:37:18		Connection successful
+2023-03-12/22:37:18		Exporting data into csv file
+2023-03-12/22:43:09		Attempting to connect with mysql
+2023-03-12/22:43:10		Connection successful
+2023-03-12/22:43:09		Creating database in mysql
+2023-03-12/22:43:10		Created database in mysql
+2023-03-12/22:43:10		Attempting to connect with mysql
+2023-03-12/22:43:10		Connection successful
+2023-03-12/22:43:10		Create table method initialised
+2023-03-12/22:43:10		Attempting to connect with mysql
+2023-03-12/22:43:10		Connection successful
+2023-03-12/22:43:10		Inserting data into sql table method initialised
+2023-03-12/22:43:12		Data inserted into table
+2023-03-12/22:43:12		Attempting to connect with mysql
+2023-03-12/22:43:12		Connection successful
+2023-03-12/22:43:12		Exporting data into csv file
+2023-03-12/22:47:43		Attempting to connect with mysql
+2023-03-12/22:47:43		Connection successful
+2023-03-12/22:47:43		Creating database in mysql
+2023-03-12/22:47:43		Created database in mysql
+2023-03-12/22:47:43		Attempting to connect with mysql
+2023-03-12/22:47:43		Connection successful
+2023-03-12/22:47:43		Create table method initialised
+2023-03-12/22:47:43		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/23:20:13		Attempting to connect with mysql
+2023-03-12/23:20:13		Connection successful
+2023-03-12/23:20:13		Creating database in mysql
+2023-03-12/23:20:13		Created database in mysql
+2023-03-12/23:20:13		Attempting to connect with mysql
+2023-03-12/23:20:13		Connection successful
+2023-03-12/23:20:13		Create table method initialised
+2023-03-12/23:20:13		Attempting to connect with mysql
+2023-03-12/23:20:13		Connection successful
+2023-03-12/23:20:13		Inserting data into sql table method initialised
+2023-03-12/23:20:15		Data inserted into table
+2023-03-12/23:20:15		Attempting to connect with mysql
+2023-03-12/23:20:15		Connection successful
+2023-03-12/23:20:15		Exporting data into csv file
+2023-03-12/23:26:15		Attempting to connect with mysql
+2023-03-12/23:26:15		Connection successful
+2023-03-12/23:26:15		Creating database in mysql
+2023-03-12/23:26:15		Created database in mysql
+2023-03-12/23:26:15		Attempting to connect with mysql
+2023-03-12/23:26:15		Connection successful
+2023-03-12/23:26:15		Create table method initialised
+2023-03-12/23:26:15		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-12/23:28:32		Attempting to connect with mysql
+2023-03-12/23:28:32		Connection successful
+2023-03-12/23:28:32		Creating database in mysql
+2023-03-12/23:28:32		Created database in mysql
+2023-03-12/23:28:32		Attempting to connect with mysql
+2023-03-12/23:28:32		Connection successful
+2023-03-12/23:28:32		Create table method initialised
+2023-03-12/23:28:33		Attempting to connect with mysql
+2023-03-12/23:28:33		Connection successful
+2023-03-12/23:28:33		Inserting data into sql table method initialised
+2023-03-12/23:28:34		Data inserted into table
+2023-03-12/23:28:34		Attempting to connect with mysql
+2023-03-12/23:28:34		Connection successful
+2023-03-12/23:28:34		Exporting data into csv file
+2023-03-12/23:35:56		Attempting to connect with mysql
+2023-03-12/23:35:56		Connection successful
+2023-03-12/23:35:56		Creating database in mysql
+2023-03-12/23:35:56		Created database in mysql
+2023-03-12/23:35:56		Attempting to connect with mysql
+2023-03-12/23:35:56		Connection successful
+2023-03-12/23:35:56		Create table method initialised
+2023-03-12/23:35:56		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-13/12:49:13		Attempting to connect with mysql
+2023-03-13/12:49:13		Connection successful
+2023-03-13/12:49:13		Creating database in mysql
+2023-03-13/12:49:13		Created database in mysql
+2023-03-13/12:49:13		Attempting to connect with mysql
+2023-03-13/12:49:13		Connection successful
+2023-03-13/12:49:13		Create table method initialised
+2023-03-13/12:49:14		Attempting to connect with mysql
+2023-03-13/12:49:14		Connection successful
+2023-03-13/12:49:14		Inserting data into sql table method initialised
+2023-03-13/12:49:15		Data inserted into table
+2023-03-13/12:49:15		Attempting to connect with mysql
+2023-03-13/12:49:15		Connection successful
+2023-03-13/12:49:15		Exporting data into csv file
+2023-03-13/12:55:22		Attempting to connect with mysql
+2023-03-13/12:55:22		Connection successful
+2023-03-13/12:55:22		Creating database in mysql
+2023-03-13/12:55:22		Created database in mysql
+2023-03-13/12:55:22		Attempting to connect with mysql
+2023-03-13/12:55:22		Connection successful
+2023-03-13/12:55:22		Create table method initialised
+2023-03-13/12:55:22		Error while creating table in database: 1050 (42S01): Table 'good_raw_data' already exists
+2023-03-13/13:25:33		Attempting to connect with mysql
+2023-03-13/13:25:33		Connection successful
+2023-03-13/13:25:33		Creating database in mysql
+2023-03-13/13:25:33		Created database in mysql
+2023-03-13/13:25:33		Attempting to connect with mysql
+2023-03-13/13:25:33		Connection successful
+2023-03-13/13:25:33		Create table method initialised
+2023-03-13/13:25:33		Attempting to connect with mysql
+2023-03-13/13:25:33		Connection successful
+2023-03-13/13:25:33		Inserting data into sql table method initialised
+2023-03-13/13:25:35		Data inserted into table
+2023-03-13/13:25:35		Attempting to connect with mysql
+2023-03-13/13:25:35		Connection successful
+2023-03-13/13:25:35		Exporting data into csv file
+2023-03-13/13:30:58		Attempting to connect with mysql
+2023-03-13/13:30:58		Connection successful
+2023-03-13/13:30:58		Creating database in mysql
+2023-03-13/13:30:58		Created database in mysql
+2023-03-13/13:30:58		Attempting to connect with mysql
+2023-03-13/13:30:58		Connection successful
+2023-03-13/13:30:58		Create table method initialised
+2023-03-13/13:30:58		Attempting to connect with mysql
+2023-03-13/13:30:58		Connection successful
+2023-03-13/13:30:58		Inserting data into sql table method initialised
+2023-03-13/13:31:00		Data inserted into table
+2023-03-13/13:31:00		Attempting to connect with mysql
+2023-03-13/13:31:00		Connection successful
+2023-03-13/13:31:00		Exporting data into csv file
+2023-03-13/13:34:53		Attempting to connect with mysql
+2023-03-13/13:34:53		Connection successful
+2023-03-13/13:34:53		Creating database in mysql
+2023-03-13/13:34:53		Created database in mysql
+2023-03-13/13:34:53		Attempting to connect with mysql
+2023-03-13/13:34:53		Connection successful
+2023-03-13/13:34:53		Create table method initialised
+2023-03-13/13:34:54		Attempting to connect with mysql
+2023-03-13/13:34:54		Connection successful
+2023-03-13/13:34:54		Inserting data into sql table method initialised
+2023-03-13/13:34:56		Data inserted into table
+2023-03-13/13:34:56		Attempting to connect with mysql
+2023-03-13/13:34:56		Connection successful
+2023-03-13/13:34:56		Exporting data into csv file
+2023-03-13/13:41:15		Attempting to connect with mysql
+2023-03-13/13:41:15		Connection successful
+2023-03-13/13:41:15		Creating database in mysql
+2023-03-13/13:41:15		Created database in mysql
+2023-03-13/13:41:16		Attempting to connect with mysql
+2023-03-13/13:41:16		Connection successful
+2023-03-13/13:41:16		Create table method initialised
+2023-03-13/13:41:16		Attempting to connect with mysql
+2023-03-13/13:41:16		Connection successful
+2023-03-13/13:41:16		Inserting data into sql table method initialised
+2023-03-13/13:41:17		Data inserted into table
+2023-03-13/13:41:17		Attempting to connect with mysql
+2023-03-13/13:41:18		Connection successful
+2023-03-13/13:41:17		Exporting data into csv file
+2023-03-13/13:47:18		Attempting to connect with mysql
+2023-03-13/13:47:18		Connection successful
+2023-03-13/13:47:18		Creating database in mysql
+2023-03-13/13:47:18		Created database in mysql
+2023-03-13/13:47:18		Attempting to connect with mysql
+2023-03-13/13:47:18		Connection successful
+2023-03-13/13:47:18		Create table method initialised
+2023-03-13/13:47:18		Attempting to connect with mysql
+2023-03-13/13:47:18		Connection successful
+2023-03-13/13:47:18		Inserting data into sql table method initialised
+2023-03-13/13:47:20		Data inserted into table
+2023-03-13/13:47:20		Attempting to connect with mysql
+2023-03-13/13:47:20		Connection successful
+2023-03-13/13:47:20		Exporting data into csv file
+2023-03-13/13:51:59		Attempting to connect with mysql
+2023-03-13/13:51:59		Connection successful
+2023-03-13/13:51:59		Creating database in mysql
+2023-03-13/13:51:59		Created database in mysql
+2023-03-13/13:51:59		Attempting to connect with mysql
+2023-03-13/13:51:59		Connection successful
+2023-03-13/13:51:59		Create table method initialised
+2023-03-13/13:51:59		Attempting to connect with mysql
+2023-03-13/13:51:59		Connection successful
+2023-03-13/13:51:59		Inserting data into sql table method initialised
+2023-03-13/13:52:01		Data inserted into table
+2023-03-13/13:52:01		Attempting to connect with mysql
+2023-03-13/13:52:01		Connection successful
+2023-03-13/13:52:01		Exporting data into csv file
+2023-03-13/18:30:01		Attempting to connect with mysql
+2023-03-13/18:30:01		Connection successful
+2023-03-13/18:30:01		Creating database in mysql
+2023-03-13/18:30:01		Created database in mysql
+2023-03-13/18:30:01		Attempting to connect with mysql
+2023-03-13/18:30:01		Connection successful
+2023-03-13/18:30:01		Create table method initialised
+2023-03-13/18:30:02		Attempting to connect with mysql
+2023-03-13/18:30:02		Connection successful
+2023-03-13/18:30:02		Inserting data into sql table method initialised
+2023-03-13/18:30:04		Data inserted into table
+2023-03-13/18:30:04		Attempting to connect with mysql
+2023-03-13/18:30:04		Connection successful
+2023-03-13/18:30:04		Exporting data into csv file
+2023-03-13/18:30:07		Attempting to connect with mysql
+2023-03-13/18:30:07		Connection successful
+2023-03-13/18:30:07		Creating database in mysql
+2023-03-13/18:30:07		Created database in mysql
+2023-03-13/18:30:07		Attempting to connect with mysql
+2023-03-13/18:30:07		Connection successful
+2023-03-13/18:30:07		Create table method initialised
+2023-03-13/18:30:07		Attempting to connect with mysql
+2023-03-13/18:30:07		Connection successful
+2023-03-13/18:30:07		Inserting data into sql table method initialised
+2023-03-13/18:30:09		Data inserted into table
+2023-03-13/18:30:09		Attempting to connect with mysql
+2023-03-13/18:30:09		Connection successful
+2023-03-13/18:30:09		Exporting data into csv file
+2023-03-13/18:31:47		Attempting to connect with mysql
+2023-03-13/18:31:47		Connection successful
+2023-03-13/18:31:47		Creating database in mysql
+2023-03-13/18:31:47		Created database in mysql
+2023-03-13/18:31:47		Attempting to connect with mysql
+2023-03-13/18:31:47		Connection successful
+2023-03-13/18:31:47		Create table method initialised
+2023-03-13/18:31:47		Attempting to connect with mysql
+2023-03-13/18:31:48		Connection successful
+2023-03-13/18:31:47		Inserting data into sql table method initialised
+2023-03-13/18:31:52		Data inserted into table
+2023-03-13/18:31:52		Attempting to connect with mysql
+2023-03-13/18:31:52		Connection successful
+2023-03-13/18:31:52		Exporting data into csv file
+2023-03-13/18:40:38		Attempting to connect with mysql
+2023-03-13/18:40:39		Connection successful
+2023-03-13/18:40:38		Creating database in mysql
+2023-03-13/18:40:39		Created database in mysql
+2023-03-13/18:40:39		Attempting to connect with mysql
+2023-03-13/18:40:39		Connection successful
+2023-03-13/18:40:39		Create table method initialised
+2023-03-13/18:40:39		Attempting to connect with mysql
+2023-03-13/18:40:39		Connection successful
+2023-03-13/18:40:39		Inserting data into sql table method initialised
+2023-03-13/18:40:44		Data inserted into table
+2023-03-13/18:40:44		Attempting to connect with mysql
+2023-03-13/18:40:44		Connection successful
+2023-03-13/18:40:44		Exporting data into csv file
+2023-03-13/20:35:07		Attempting to connect with mysql
+2023-03-13/20:35:08		Connection successful
+2023-03-13/20:35:07		Creating database in mysql
+2023-03-13/20:35:08		Created database in mysql
+2023-03-13/20:35:08		Attempting to connect with mysql
+2023-03-13/20:35:08		Connection successful
+2023-03-13/20:35:08		Create table method initialised
+2023-03-13/20:35:08		Attempting to connect with mysql
+2023-03-13/20:35:08		Connection successful
+2023-03-13/20:35:08		Inserting data into sql table method initialised
+2023-03-13/20:35:13		Data inserted into table
+2023-03-13/20:35:13		Attempting to connect with mysql
+2023-03-13/20:35:13		Connection successful
+2023-03-13/20:35:13		Exporting data into csv file
+2023-03-13/21:07:46		Attempting to connect with mysql
+2023-03-13/21:07:46		Connection successful
+2023-03-13/21:07:46		Creating database in mysql
+2023-03-13/21:07:46		Created database in mysql
+2023-03-13/21:07:46		Attempting to connect with mysql
+2023-03-13/21:07:46		Connection successful
+2023-03-13/21:07:46		Create table method initialised
+2023-03-13/21:07:46		Attempting to connect with mysql
+2023-03-13/21:07:46		Connection successful
+2023-03-13/21:07:46		Inserting data into sql table method initialised
+2023-03-13/21:07:51		Data inserted into table
+2023-03-13/21:07:51		Attempting to connect with mysql
+2023-03-13/21:07:51		Connection successful
+2023-03-13/21:07:51		Exporting data into csv file
+2023-03-13/21:10:54		Attempting to connect with mysql
+2023-03-13/21:10:55		Connection successful
+2023-03-13/21:10:54		Creating database in mysql
+2023-03-13/21:10:55		Created database in mysql
+2023-03-13/21:10:55		Attempting to connect with mysql
+2023-03-13/21:10:55		Connection successful
+2023-03-13/21:10:55		Create table method initialised
+2023-03-13/21:10:55		Attempting to connect with mysql
+2023-03-13/21:10:55		Connection successful
+2023-03-13/21:10:55		Inserting data into sql table method initialised
+2023-03-13/21:11:00		Data inserted into table
+2023-03-13/21:11:00		Attempting to connect with mysql
+2023-03-13/21:11:00		Connection successful
+2023-03-13/21:11:00		Exporting data into csv file
+2023-03-13/21:33:02		Attempting to connect with mysql
+2023-03-13/21:33:02		Connection successful
+2023-03-13/21:33:02		Creating database in mysql
+2023-03-13/21:33:02		Created database in mysql
+2023-03-13/21:33:02		Attempting to connect with mysql
+2023-03-13/21:33:02		Connection successful
+2023-03-13/21:33:02		Create table method initialised
+2023-03-13/21:33:03		Attempting to connect with mysql
+2023-03-13/21:33:03		Connection successful
+2023-03-13/21:33:03		Inserting data into sql table method initialised
+2023-03-13/21:33:08		Data inserted into table
+2023-03-13/21:33:08		Attempting to connect with mysql
+2023-03-13/21:33:08		Connection successful
+2023-03-13/21:33:08		Exporting data into csv file
+2023-03-13/21:41:15		Attempting to connect with mysql
+2023-03-13/21:41:15		Connection successful
+2023-03-13/21:41:15		Creating database in mysql
+2023-03-13/21:41:15		Created database in mysql
+2023-03-13/21:41:15		Attempting to connect with mysql
+2023-03-13/21:41:15		Connection successful
+2023-03-13/21:41:15		Create table method initialised
+2023-03-13/21:41:16		Attempting to connect with mysql
+2023-03-13/21:41:16		Connection successful
+2023-03-13/21:41:16		Inserting data into sql table method initialised
+2023-03-13/21:41:20		Data inserted into table
+2023-03-13/21:41:20		Attempting to connect with mysql
+2023-03-13/21:41:20		Connection successful
+2023-03-13/21:41:20		Exporting data into csv file
+2023-03-13/21:45:35		Attempting to connect with mysql
+2023-03-13/21:45:35		Connection successful
+2023-03-13/21:45:35		Creating database in mysql
+2023-03-13/21:45:35		Created database in mysql
+2023-03-13/21:45:35		Attempting to connect with mysql
+2023-03-13/21:45:35		Connection successful
+2023-03-13/21:45:35		Create table method initialised
+2023-03-13/21:45:35		Attempting to connect with mysql
+2023-03-13/21:45:35		Connection successful
+2023-03-13/21:45:35		Inserting data into sql table method initialised
+2023-03-13/21:45:40		Data inserted into table
+2023-03-13/21:45:40		Attempting to connect with mysql
+2023-03-13/21:45:40		Connection successful
+2023-03-13/21:45:40		Exporting data into csv file
+2023-03-13/21:57:04		Attempting to connect with mysql
+2023-03-13/21:57:04		Connection successful
+2023-03-13/21:57:04		Creating database in mysql
+2023-03-13/21:57:04		Created database in mysql
+2023-03-13/21:57:04		Attempting to connect with mysql
+2023-03-13/21:57:04		Connection successful
+2023-03-13/21:57:04		Create table method initialised
+2023-03-13/21:57:04		Attempting to connect with mysql
+2023-03-13/21:57:05		Connection successful
+2023-03-13/21:57:04		Inserting data into sql table method initialised
+2023-03-13/21:57:09		Data inserted into table
+2023-03-13/21:57:09		Attempting to connect with mysql
+2023-03-13/21:57:09		Connection successful
+2023-03-13/21:57:09		Exporting data into csv file
+2023-03-13/23:16:25		Attempting to connect with mysql
+2023-03-13/23:16:25		Connection successful
+2023-03-13/23:16:25		Creating database in mysql
+2023-03-13/23:16:25		Created database in mysql
+2023-03-13/23:16:25		Attempting to connect with mysql
+2023-03-13/23:16:25		Connection successful
+2023-03-13/23:16:25		Create table method initialised
+2023-03-13/23:16:25		Attempting to connect with mysql
+2023-03-13/23:16:25		Connection successful
+2023-03-13/23:16:25		Inserting data into sql table method initialised
+2023-03-13/23:16:28		Data inserted into table
+2023-03-13/23:16:28		Attempting to connect with mysql
+2023-03-13/23:16:28		Connection successful
+2023-03-13/23:16:28		Exporting data into csv file
+2023-03-13/23:22:42		Attempting to connect with mysql
+2023-03-13/23:22:42		Connection successful
+2023-03-13/23:22:42		Creating database in mysql
+2023-03-13/23:22:42		Created database in mysql
+2023-03-13/23:22:42		Attempting to connect with mysql
+2023-03-13/23:22:42		Connection successful
+2023-03-13/23:22:42		Create table method initialised
+2023-03-13/23:22:42		Attempting to connect with mysql
+2023-03-13/23:22:43		Connection successful
+2023-03-13/23:22:42		Inserting data into sql table method initialised
+2023-03-13/23:22:48		Data inserted into table
+2023-03-13/23:22:48		Attempting to connect with mysql
+2023-03-13/23:22:48		Connection successful
+2023-03-13/23:22:48		Exporting data into csv file
+2023-03-13/23:33:01		Attempting to connect with mysql
+2023-03-13/23:33:01		Connection successful
+2023-03-13/23:33:01		Creating database in mysql
+2023-03-13/23:33:01		Created database in mysql
+2023-03-13/23:33:01		Attempting to connect with mysql
+2023-03-13/23:33:01		Connection successful
+2023-03-13/23:33:01		Create table method initialised
+2023-03-13/23:33:01		Attempting to connect with mysql
+2023-03-13/23:33:01		Connection successful
+2023-03-13/23:33:01		Inserting data into sql table method initialised
+2023-03-13/23:33:06		Data inserted into table
+2023-03-13/23:33:06		Attempting to connect with mysql
+2023-03-13/23:33:06		Connection successful
+2023-03-13/23:33:06		Exporting data into csv file
+2023-03-13/23:41:16		Attempting to connect with mysql
+2023-03-13/23:41:16		Connection successful
+2023-03-13/23:41:16		Creating database in mysql
+2023-03-13/23:41:16		Created database in mysql
+2023-03-13/23:41:16		Attempting to connect with mysql
+2023-03-13/23:41:16		Connection successful
+2023-03-13/23:41:16		Create table method initialised
+2023-03-13/23:41:16		Attempting to connect with mysql
+2023-03-13/23:41:16		Connection successful
+2023-03-13/23:41:16		Inserting data into sql table method initialised
+2023-03-13/23:41:18		Data inserted into table
+2023-03-13/23:41:18		Attempting to connect with mysql
+2023-03-13/23:41:18		Connection successful
+2023-03-13/23:41:18		Exporting data into csv file
+2023-03-13/23:44:30		Attempting to connect with mysql
+2023-03-13/23:44:30		Connection successful
+2023-03-13/23:44:30		Creating database in mysql
+2023-03-13/23:44:30		Created database in mysql
+2023-03-13/23:44:30		Attempting to connect with mysql
+2023-03-13/23:44:30		Connection successful
+2023-03-13/23:44:30		Create table method initialised
+2023-03-13/23:44:30		Attempting to connect with mysql
+2023-03-13/23:44:30		Connection successful
+2023-03-13/23:44:30		Inserting data into sql table method initialised
+2023-03-13/23:44:32		Data inserted into table
+2023-03-13/23:44:32		Attempting to connect with mysql
+2023-03-13/23:44:32		Connection successful
+2023-03-13/23:44:32		Exporting data into csv file
