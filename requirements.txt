@@ -5,3 +5,4 @@ seaborn
 pandas
 numpy
 scikit_learn
+pickle
