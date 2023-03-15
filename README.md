@@ -5,4 +5,4 @@
 
 ## Deployed app link
  - Click on link
- [Backorder prediction](http://ec2-65-1-131-122.ap-south-1.compute.amazonaws.com:8080/)
+ [Credit Card Default prediction] (http://ec2-65-1-131-122.ap-south-1.compute.amazonaws.com:8080/)
